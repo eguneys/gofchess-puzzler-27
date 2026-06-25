@@ -1,0 +1,76 @@
+@use 'core.scss';
+
+header {
+    height: 10px;
+}
+
+.main-wrap {
+    display: grid;
+    grid-template-areas: '. . main . .';
+    grid-template-columns: 10px 1fr minmax(auto, 1300px) 1fr 10px;
+
+    main {
+        grid-area: main;
+    }
+}
+
+main.layout {
+
+    display: grid;
+    grid-template-areas: 'board pgn';
+
+    grid-template-columns: calc(100vh - 10px * 2) auto;
+
+    gap: core.$space-2;
+
+    .board-wrap {
+        grid-area: 'board';
+    }
+
+    .pgn-wrap {
+        grid-area: 'pgn';
+    }
+
+
+    .board-wrap {
+        overflow: hidden;
+        border-radius: core.$radius;
+    }
+
+
+    .pgn-wrap {
+        .info {
+            .info-title, .info-subtitle {
+                cursor: pointer;
+            }
+
+
+            .info-subtitle {
+                color: core.$color-text-secondary;
+            }
+
+
+            .subtitle-list {
+                background: core.$neutral-100;
+
+                .list {
+                    overflow: auto;
+                    max-height: 10em;
+                }
+
+
+                .list .item {
+                    cursor: pointer;
+                    padding: core.$space-1;
+
+                    font-size: core.$font-size-sm;
+
+
+                    &:hover {
+                        background: core.$color-primary-hover;
+                    }
+                }
+            }
+        }
+    }
+}
