@@ -6,7 +6,7 @@ import '../assets/chessground/theme.css'
 import './Chessboard.css'
 import type { Api } from "@lichess-org/chessground/api"
 import type { Config } from "@lichess-org/chessground/config"
-import type { Key } from "@lichess-org/chessground/types"
+import type { Color, Dests, Key } from "@lichess-org/chessground/types"
 import type { DrawShape } from "@lichess-org/chessground/draw"
 import { square } from "chessops/debug"
 
@@ -14,14 +14,21 @@ import { square } from "chessops/debug"
 type FEN = string
 type Move = any
 
-export function Chessboard(props: { fen: FEN, last_move?: Move, on_wheel?: (_: number) => void, shapes?: DrawShape[] }) {
+export function Chessboard(props: { on_move?: (orig: Key, dest: Key) => void, dests?: Dests, fen: FEN, orientation?: Color, last_move?: Move, on_wheel?: (_: number) => void, shapes?: DrawShape[] }) {
 
     let ground: Api
 
     onMount(() => {
 
         let config: Config = {
-            fen: props.fen
+            orientation: props.orientation,
+            fen: props.fen,
+            events: {
+                move: props.on_move
+            },
+            movable: {
+                free: false,
+            }
         }
         if (props.last_move) {
             config.lastMove = [square(props.last_move.from) as Key, square(props.last_move.to) as Key]
@@ -35,16 +42,20 @@ export function Chessboard(props: { fen: FEN, last_move?: Move, on_wheel?: (_: n
 
     createEffect(() => {
 
+        const orientation = props.orientation
         let fen = props.fen
         let lastMove
         if (props.last_move) {
             lastMove = [square(props.last_move.from) as Key, square(props.last_move.to) as Key]
         }
+
+        const dests = props.dests
+
         if (!ground) {
             return
         }
 
-        ground.set({ fen, lastMove })
+        ground.set({ orientation, fen, lastMove, movable: { dests } })
     })
 
     createEffect(() => {
@@ -54,6 +65,8 @@ export function Chessboard(props: { fen: FEN, last_move?: Move, on_wheel?: (_: n
         }
         if (shapes) {
             ground.setShapes(shapes)
+        } else {
+            ground.setShapes([])
         }
     })
 
@@ -67,6 +80,6 @@ export function Chessboard(props: { fen: FEN, last_move?: Move, on_wheel?: (_: n
     }
 
     return (<>
-    <div on:wheel={handle_wheel_event} ref={$el} class='is2d chessboard-wrap'></div>
+        <div on:wheel={handle_wheel_event} ref={$el} class='is2d chessboard-wrap'></div>
     </>)
 }

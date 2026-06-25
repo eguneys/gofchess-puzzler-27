@@ -1,8 +1,12 @@
-import { For, Show } from 'solid-js';
+import { createMemo, For, Show } from 'solid-js';
 import './App.scss'
 import { Chessboard } from './components/Chessboard'
 import Pgn from './components/Pgn';
 import { Provider, useState } from './state/State';
+import { Chess, makeUci } from 'chessops';
+import { makeSan } from 'chessops/san';
+import { parseFen } from 'chessops/fen';
+import { annotationShapes } from './components/annotationShapes';
 
 function AppWrapper() {
   return (<>
@@ -15,8 +19,22 @@ function AppWrapper() {
 function App() {
 
 
-  const [{ main }, { main_actions: { set_subtitle_list_open } }] = useState()
+  const [{ main, player }, { player_actions: { on_move }, main_actions: { set_subtitle_list_open } }] = useState()
 
+  const annotation = createMemo(() => {
+
+    const position = Chess.fromSetup(parseFen(player.fen).unwrap()).unwrap()
+    if (player.mark_correct !== undefined) {
+      const uci = makeUci(player.mark_correct)
+      const san = makeSan(position, player.mark_correct)
+      return annotationShapes(uci, san, '✓')
+    }
+    if (player.mark_incorrect !== undefined) {
+      const uci = makeUci(player.mark_incorrect)
+      const san = makeSan(position, player.mark_incorrect)
+      return annotationShapes(uci, san, '✗')
+    }
+  })
 
   return (
     <>
@@ -24,7 +42,7 @@ function App() {
       <div class='main-wrap google-sans-flex-500'>
         <main class='layout'>
           <div class="board-wrap">
-            <Chessboard fen="" />
+            <Chessboard shapes={annotation()} last_move={player.last_move} on_move={on_move} orientation={player.orientation} dests={player.dests} fen={player.fen} />
           </div>
           <div class="pgn-wrap">
             <div class='info'>

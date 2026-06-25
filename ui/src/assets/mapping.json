@@ -1,0 +1,13 @@
+{
+    "capture_the_queen_bishop_discovery.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_knight_discovery.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_pawn_discovery.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_pawn_fork.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_bishop_fork.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_knight_fork.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_pawn_skewer.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_bishop_skewer.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_knight_skewer.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_rook_skewer.csv": "script3.True.dbsrc.csv",
+    "capture_the_queen_queen_skewer.csv": "script3.True.dbsrc.csv"
+}

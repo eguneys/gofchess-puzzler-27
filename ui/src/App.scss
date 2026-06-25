@@ -52,6 +52,8 @@ main.layout {
 
             .subtitle-list {
                 background: core.$neutral-100;
+                border: 1px solid core.$color-border;
+                border-radius: core.$radius;
 
                 .list {
                     overflow: auto;

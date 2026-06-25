@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@lichess-org/chessground": "^10.1.1",
+    "@solid-primitives/memo": "^1.5.0",
     "@solid-primitives/storage": "^4.3.4",
+    "@solidjs/router": "^0.16.1",
     "chessops": "^0.15.0",
     "solid-js": "^1.9.13"
   },
   "devDependencies": {
     "@types/node": "^24.13.2",
+    "sass": "^1.101.0",
     "typescript": "~6.0.2",
     "vite": "^8.1.0",
     "vite-plugin-solid": "^2.11.12"

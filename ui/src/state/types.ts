@@ -1,3 +1,5 @@
+import type { MapKey } from "./puzzles"
+
 export type Goal = {
     name: string
     styles: Style[]
@@ -7,7 +9,7 @@ export type Style = {
     goal: Goal
     label: string
     description: string
-    slice: string
+    slice: MapKey
 }
 
 function addStyle(goal: Goal, style: Style) {
