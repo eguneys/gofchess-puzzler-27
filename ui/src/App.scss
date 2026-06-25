@@ -1,4 +1,5 @@
 @use 'core.scss';
+@use 'media.scss';
 
 header {
     height: 10px;
@@ -17,9 +18,16 @@ header {
 main.layout {
 
     display: grid;
-    grid-template-areas: 'board pgn';
+    grid-template-areas: 'pgn'
+                        'board';
 
-    grid-template-columns: calc(100vh - 10px * 2) auto;
+    grid-template-columns: calc(100vh - 10px * 2);
+    justify-content: center;
+    
+    @include media.respond-to("sm") {
+        grid-template-columns: calc(100vh - 10px * 2) auto;
+    }
+
 
     gap: core.$space-2;
 
@@ -47,6 +55,10 @@ main.layout {
 
             .info-subtitle {
                 color: core.$color-text-secondary;
+
+                &:hover {
+                    text-decoration: underline;
+                }
             }
 
 
@@ -72,6 +84,29 @@ main.layout {
                         background: core.$color-primary-hover;
                     }
                 }
+            }
+        }
+
+
+        .pgn {
+            display: flex;
+            gap: core.$space-1;
+
+            .san {
+                display: flex;
+                gap: core.$space-0;
+
+                transition: all .3s;
+
+                &.hidden, &.hidden .index {
+                    background: core.$neutral-500;
+                    color: core.$neutral-500;
+                    border-radius: core.$radius;
+                }
+            }
+
+            .san .index {
+                color: core.$neutral-400;
             }
         }
     }

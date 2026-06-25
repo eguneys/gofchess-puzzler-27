@@ -6,6 +6,7 @@ import { Chess, opposite, parseUci, type Color, type Move } from "chessops"
 import { batch, createEffect, createMemo, on, type Accessor } from "solid-js"
 import { square } from "chessops/debug"
 import { createWritableMemo } from "@solid-primitives/memo"
+import { makeSan } from "chessops/san"
 
 export type PlayerState = {
     fen: string
@@ -16,6 +17,8 @@ export type PlayerState = {
     mark_correct: Move | undefined
     mark_solved: boolean
     mark_incorrect: Move | undefined
+    solution_sans: string[]
+    i_hidden_after: number
 }
 
 export type PlayerActions = {
@@ -38,11 +41,23 @@ export function createPuzzlePlayer(puzzle: Accessor<Puzzle>, jump_to_next_puzzle
 
     const solution_fens = createMemo(() => {
         const result: string[] = []
-        const position = original_pos()
+        const position = original_pos().clone()
         position.play(parseUci(first_move())!)
         for (let move of solution_moves()) {
             position.play(parseUci(move)!)
             result.push(makeFen(position.toSetup()))
+        }
+
+        return result
+    })
+    const solution_sans = createMemo(() => {
+        const result: string[] = []
+        const position = original_pos().clone()
+        result.push(makeSan(position, parseUci(first_move())!))
+        position.play(parseUci(first_move())!)
+        for (let move of solution_moves()) {
+            result.push(makeSan(position, parseUci(move)!))
+            position.play(parseUci(move)!)
         }
 
         return result
@@ -84,6 +99,16 @@ export function createPuzzlePlayer(puzzle: Accessor<Puzzle>, jump_to_next_puzzle
     })
 
     let state = {
+        get i_hidden_after() {
+            const i = solution_fens().indexOf(fen())
+            if (i === -1) {
+                return 1
+            }
+            return i + 2
+        },
+        get solution_sans() {
+            return solution_sans()
+        },
         get mark_correct() {
             return store.mark_correct
         },
