@@ -40,12 +40,14 @@ addStyle(captureTheQueen, {
 })
 
 
+/*
 addStyle(captureTheQueen, {
     label: 'Pawn Fork',
     description: 'Pawn fork with check',
     goal: captureTheQueen,
     slice: 'capture_the_queen_pawn_fork.csv'
 })
+    */
 
 
 addStyle(captureTheQueen, {
@@ -86,6 +88,7 @@ addStyle(captureTheQueen, {
 })
 
 
+/*
 
 addStyle(captureTheQueen, {
     label: 'Pawn Discovery',
@@ -93,3 +96,4 @@ addStyle(captureTheQueen, {
     goal: captureTheQueen,
     slice: 'capture_the_queen_pawn_discovery.csv'
 })
+    */

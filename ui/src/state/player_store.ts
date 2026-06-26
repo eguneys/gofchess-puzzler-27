@@ -32,6 +32,7 @@ type PuzzlePlayerStore = {
 }
 
 export function createPuzzlePlayer(puzzle: Accessor<Puzzle>, jump_to_next_puzzle: () => void): [PlayerState, PlayerActions] {
+    console.log(puzzle())
 
     const moves = createMemo(() => puzzle().moves.split(' '))
     const first_move = createMemo(() => moves()[0])
