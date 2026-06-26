@@ -20,7 +20,7 @@ export type MainActions = {
 
 export function createMain(): [MainState, MainActions] {
 
-    const [subtitle_list_open, set_subtitle_list_open] = createSignal(false)
+    const [subtitle_list_open, set_subtitle_list_open] = createSignal(true)
 
     const [store, set_store] = makePersisted(createStore({
         selected_goal_name: captureTheQueen.name,
