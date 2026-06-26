@@ -1,0 +1,204 @@
+0.00 ms per puzzle, took 23235ms
+FirstM:3338 N:4674212 F:0 FF:0 T:28 FullT: 1695
+Coverage:0.11% Accuracy:66.51%
+Total:4679273                                                       
+4583 https://lichess.org/training/03jNq
+[Nxd3+ cxd3 Qxg5+] fullTrueMatch
+1: {}
+2: {}
+3: {Nxd3+}
+4: {Nxd3+}
+5: {Nxd3+}
+6: {Nxd3+ cxd3}
+7: {Nxd3+ cxd3}
+8: {Nxd3+ cxd3 Qxg5+}
+6646 https://lichess.org/training/05Rlc
+[Nxh3+ Rxh3 Qxd2] fullTrueMatch
+1: {}
+2: {}
+3: {Nxg2}{Nxh3+}
+4: {Nxg2}{Nxh3+}
+5: {Nxh3+}
+6: {Nxh3+ gxh3}{Nxh3+ Rxh3}
+7: {Nxh3+ gxh3}{Nxh3+ Rxh3}
+8: {Nxh3+ gxh3 Qxd2}{Nxh3+ Rxh3 Qxd2}
+11227 https://lichess.org/training/09ADK
+[Nxg5+ hxg5 Qxe6] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf2}{Nxc5}{Nxg5+}
+4: {Nxf2}{Nxc5}{Nxg5+}
+5: {Nxg5+}
+6: {Nxg5+ hxg5}
+7: {Nxg5+ hxg5}
+8: {Nxg5+ hxg5 Qxe6}
+14905 https://lichess.org/training/0CAsb
+[Nxh6+ gxh6 Qxd7] fullTrueMatch
+1: {}
+2: {}
+3: {Nxd6}{Nxh6+}{Nxe7+}{Nxg7}
+4: {Nxh6+}{Nxg7}
+5: {Nxh6+}
+6: {Nxh6+ gxh6}
+7: {Nxh6+ gxh6}
+8: {Nxh6+ gxh6 Qxd7}
+15126 https://lichess.org/training/0CLa9
+[Nxf6+ Bxf6 Qxd7] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf6+}{Nxe7}
+4: {Nxf6+}
+5: {Nxf6+}
+6: {Nxf6+ Bxf6}{Nxf6+ Rxf6}
+7: {Nxf6+ Bxf6}{Nxf6+ Rxf6}
+8: {Nxf6+ Bxf6 Qxd7}{Nxf6+ Rxf6 Qxd7}
+16873 https://lichess.org/training/0DqlD
+[Nxf6+ Bxf6 Qxc4] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf6+}
+4: {Nxf6+}
+5: {Nxf6+}
+6: {Nxf6+ Bxf6}{Nxf6+ gxf6}
+7: {Nxf6+ Bxf6}{Nxf6+ gxf6}
+8: {Nxf6+ Bxf6 Qxc4}{Nxf6+ gxf6 Qxc4}
+17150 https://lichess.org/training/0E2f5
+[Nxd3+ Rxd3 Qxb4] fullTrueMatch
+1: {}
+2: {}
+3: {Nxb3}{Nxd3+}{Nxa4}
+4: {Nxd3+}
+5: {Nxd3+}
+6: {Nxd3+ Rxd3}{Nxd3+ cxd3}
+7: {Nxd3+ Rxd3}{Nxd3+ cxd3}
+8: {Nxd3+ Rxd3 Qxb4}{Nxd3+ cxd3 Qxb4}
+17603 https://lichess.org/training/0ERVU
+[Nxf6+ gxf6 Qxd5+] fullTrueMatch
+1: {}
+2: {}
+3: {Nxd2}{Nxf6+}
+4: {Nxf6+}
+5: {Nxf6+}
+6: {Nxf6+ gxf6}
+7: {Nxf6+ gxf6}
+8: {Nxf6+ gxf6 Qxd5+}
+20762 https://lichess.org/training/0H5IP
+[Nxe5+ dxe5 Qxh3] fullTrueMatch
+1: {}
+2: {}
+3: {Nxe5+}
+4: {Nxe5+}
+5: {Nxe5+}
+6: {Nxe5+ Nxe5}{Nxe5+ Nxe5}{Nxe5+ dxe5}
+7: {Nxe5+ Nxe5}{Nxe5+ Nxe5}{Nxe5+ dxe5}
+8: {Nxe5+ Nxe5 Qxh3}{Nxe5+ Nxe5 Qxh3}{Nxe5+ dxe5 Qxh3}
+26598 https://lichess.org/training/0Lvsj
+[Nxf6+ gxf6 Qxd7] fullTrueMatch
+1: {}
+2: {}
+3: {Nxb4}{Nxf6+}{Nxe7+}
+4: {Nxb4}{Nxf6+}
+5: {Nxf6+}
+6: {Nxf6+ Bxf6}{Nxf6+ gxf6}
+7: {Nxf6+ Bxf6}{Nxf6+ gxf6}
+8: {Nxf6+ Bxf6 Qxd7}{Nxf6+ gxf6 Qxd7}
+36849 https://lichess.org/training/0UPdt
+[Nxf3+ gxf3 Qxd2] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf3+}
+4: {Nxf3+}
+5: {Nxf3+}
+6: {Nxf3+ gxf3}
+7: {Nxf3+ gxf3}
+8: {Nxf3+ gxf3 Qxd2}
+38564 https://lichess.org/training/0VmvD
+[Nxf3+ gxf3 Qxd4] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf3+}{Nxc4}
+4: {Nxf3+}
+5: {Nxf3+}
+6: {Nxf3+ gxf3}
+7: {Nxf3+ gxf3}
+8: {Nxf3+ gxf3 Qxd4}
+40361 https://lichess.org/training/0XFvx
+[Nxe3+ Bxe3 Qxc4+] fullTrueMatch
+1: {}
+2: {}
+3: {Nxe3+}{Nxf4}
+4: {Nxe3+}{Nxf4}
+5: {Nxe3+}
+6: {Nxe3+ fxe3}{Nxe3+ Bxe3}
+7: {Nxe3+ fxe3}{Nxe3+ Bxe3}
+8: {Nxe3+ fxe3 Qxc4+}{Nxe3+ Bxe3 Qxc4+}
+43261 https://lichess.org/training/0ZfZD
+[Nxf3+ gxf3 Qxh4] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf3+}{Nxh3+}
+4: {Nxf3+}
+5: {Nxf3+}
+6: {Nxf3+ gxf3}
+7: {Nxf3+ gxf3}
+8: {Nxf3+ gxf3 Qxh4}
+47924 https://lichess.org/training/0dcFn
+[Nxe4+ Bxe4 Qxg5] fullTrueMatch
+1: {}
+2: {}
+3: {Nxe4+}
+4: {Nxe4+}
+5: {Nxe4+}
+6: {Nxe4+ Bxe4}
+7: {Nxe4+ Bxe4}
+8: {Nxe4+ Bxe4 Qxg5}
+52029 https://lichess.org/training/0h3yx
+[Nxd3+ Bxd3 Qxf6] fullTrueMatch
+1: {}
+2: {}
+3: {Nxd3+}
+4: {Nxd3+}
+5: {Nxd3+}
+6: {Nxd3+ Rxd3}{Nxd3+ Bxd3}{Nxd3+ cxd3}
+7: {Nxd3+ Rxd3}{Nxd3+ Bxd3}{Nxd3+ cxd3}
+8: {Nxd3+ Rxd3 Qxf6}{Nxd3+ Bxd3 Qxf6}{Nxd3+ cxd3 Qxf6}
+59297 https://lichess.org/training/0n0IB
+[Nxf6+ Bxf6 Qxd7] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf6+}
+4: {Nxf6+}
+5: {Nxf6+}
+6: {Nxf6+ Bxf6}
+7: {Nxf6+ Bxf6}
+8: {Nxf6+ Bxf6 Qxd7}
+62985 https://lichess.org/training/0q1t5
+[Nxd6+ Bxd6 Qxb5] fullTrueMatch
+1: {}
+2: {}
+3: {Nxe5}{Nxd6+}
+4: {Nxd6+}
+5: {Nxd6+}
+6: {Nxd6+ Bxd6}{Nxd6+ Rxd6}
+7: {Nxd6+ Bxd6}{Nxd6+ Rxd6}
+8: {Nxd6+ Bxd6 Qxb5}{Nxd6+ Rxd6 Qxb5}
+67646 https://lichess.org/training/0tqt7
+[Nxc3+ bxc3 Qxe2] fullTrueMatch
+1: {}
+2: {}
+3: {Nxf2}{Nxc3+}{Nxg3}{Nxg5}
+4: {Nxc3+}{Nxg3}{Nxg5}
+5: {Nxc3+}
+6: {Nxc3+ bxc3}
+7: {Nxc3+ bxc3}
+8: {Nxc3+ bxc3 Qxe2}
+75535 https://lichess.org/training/10Cmo
+[Nxd6+ exd6 Qxa5] fullTrueMatch
+1: {}
+2: {}
+3: {Nxc3}{Nxd6+}{Nxa7}
+4: {Nxd6+}
+5: {Nxd6+}
+6: {Nxd6+ exd6}
+7: {Nxd6+ exd6}
+8: {Nxd6+ exd6 Qxa5}
