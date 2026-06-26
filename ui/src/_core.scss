@@ -14,9 +14,9 @@ $accent-base:  #dc9e89; // muted terracotta accent
 // ---- HELPER: mix toward white (positive) or black (negative) ----
 @function shade($color, $amount) {
   @if $amount > 0 {
-    @return color.mix(white, $color, $amount * 1%);
+    @return color.mix(white, $color, $amount);
   } @else {
-    @return color.mix(black, $color, math.abs($amount) * 1%);
+    @return color.mix(black, $color, math.abs($amount));
   }
 }
 
