@@ -7,14 +7,14 @@ import { Chess, makeUci } from 'chessops';
 import { makeSan } from 'chessops/san';
 import { parseFen } from 'chessops/fen';
 import { annotationShapes } from './components/annotationShapes';
-import { A, Route, Router } from '@solidjs/router';
+import { A, Route, HashRouter } from '@solidjs/router';
 
 function AppWrapper() {
   return (<>
     <Provider>
-      <Router root={Layout}>
+      <HashRouter root={Layout}>
         <Route path='/' component={App} />
-      </Router>
+      </HashRouter>
     </Provider>
   </>)
 }

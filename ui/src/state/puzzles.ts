@@ -3,7 +3,7 @@ import mapping_json from "../assets/mapping.json"
 export type MapKey = keyof typeof mapping_json
 
 export function fetch_puzzle_slice(src: MapKey) {
-    return fetch(`puzzles/${mapping_json[src]}`).then(_ => _.text()).then(parse_csv)
+    return fetch(`/puzzles/${mapping_json[src]}`).then(_ => _.text()).then(parse_csv)
 }
 
 export type Puzzle = {
