@@ -47,6 +47,11 @@ main.layout {
 
 
     .pgn-wrap {
+
+            span.turn {
+                    text-transform: capitalize;
+                }
+
         .info {
             .info-title, .info-subtitle {
                 cursor: pointer;

@@ -65,7 +65,7 @@ function App() {
               </Show>
             </div>
           </div>
-          <span>Black to move and <span class='goal'>{main.selected_goal.name}</span></span>
+          <span><span class='turn'>{player.orientation}</span> to move and <span class='goal'>{main.selected_goal.name}</span></span>
           <small> with a {main.selected_style.label}</small>
           <Pgn sans={player.solution_sans} first_black={player.orientation === 'white'} i_hidden_after={player.i_hidden_after} />
         </div>
