@@ -97,3 +97,69 @@ addStyle(captureTheQueen, {
     slice: 'capture_the_queen_pawn_discovery.csv'
 })
     */
+
+
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging',
+    description: 'Queen is outright hanging',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_full_true.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging II',
+    description: 'Queen is outright hanging (longer version)',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_true.csv'
+})
+
+
+
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging To Rook',
+    description: 'Queen is outright hanging to rook',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_capture_rook_full_true.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging To Rook II',
+    description: 'Queen is outright hanging to rook (longer version)',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_capture_rook_true.csv'
+})
+
+
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging To Bishop',
+    description: 'Queen is outright hanging to bishop',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_capture_bishop_full_true.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging To Bishop II',
+    description: 'Queen is outright hanging to bishop (longer version)',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_capture_bishop_true.csv'
+})
+
+
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging To Knight',
+    description: 'Queen is outright hanging to knight',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_capture_knight_full_true.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: 'Outright Hanging To Knight II',
+    description: 'Queen is outright hanging to knight (longer version)',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_immediate_hang_capture_knight_true.csv'
+})
+
