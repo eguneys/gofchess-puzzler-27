@@ -1,124 +1,124 @@
-0.01 ms per puzzle, took 45729ms
-FirstM:226064 N:4427999 F:0 FF:0 T:24302 FullT: 908
-Coverage:5.37% Accuracy:99.64%
-Total:4679273                                                   
-6575 https://lichess.org/training/05Nmq
+0.01 ms per puzzle, took 49349ms
+FirstM:282662 N:5693063 F:0 FF:0 T:37604 FullT: 1053
+Coverage:5.34% Accuracy:99.67%
+Total:6014382                                                  
+8423 https://lichess.org/training/05Nmq
 [Bxg5+ Kxf7 Bxd8] fullTrueMatch
 1: {Bxg5+}
 2: {Bxg5+}
 3: {Bxg5+ Kd6}{Bxg5+ Ke6+}{Bxg5+ Kd7}{Bxg5+ Kxf7}{Bxg5+ Kxd8+}{Bxg5+ Ke8+}{Bxg5+ Kf8}
 4: {Bxg5+ Kd6 Bxd8}{Bxg5+ Ke6+ Bxd8+}{Bxg5+ Kd7 Bxd8}{Bxg5+ Kxf7 Bxd8}{Bxg5+ Ke8+ Bxd8+}{Bxg5+ Kf8 Bxd8}
-17204 https://lichess.org/training/0E5ZG
+22102 https://lichess.org/training/0E5ZG
 [Bh4+ Kh2 Bxf2] fullTrueMatch
 1: {Bh4+}
 2: {Bh4+}
 3: {Bh4+ Kxf2+}{Bh4+ Kg2}{Bh4+ Kh2}{Bh4+ Kxf3+}{Bh4+ Kxh3}{Bh4+ Kf4+}{Bh4+ Kg4+}{Bh4+ Kxh4+}
 4: {Bh4+ Kg2 Bxf2}{Bh4+ Kh2 Bxf2}{Bh4+ Kxf3+ Bxf2+}{Bh4+ Kxh3 Bxf2+}{Bh4+ Kf4+ Bxf2#}{Bh4+ Kg4+ Bxf2+}
-19564 https://lichess.org/training/0G50H
+25206 https://lichess.org/training/0G50H
 [Bf5+ Kd2 Bxc2] fullTrueMatch
 1: {Bf5+}
 2: {Bf5+}
 3: {Bf5+ Kxc2+}{Bf5+ Kd2}{Bf5+ Ke2}{Bf5+ Kc3}{Bf5+ Kxe3}{Bf5+ Kc4+}{Bf5+ Kd4}
 4: {Bf5+ Kd2 Bxc2}{Bf5+ Ke2 Bxc2}{Bf5+ Kc3 Bxc2}{Bf5+ Kxe3 Bxc2}{Bf5+ Kc4+ Bxc2+}{Bf5+ Kd4 Bxc2}
-42389 https://lichess.org/training/0YyIh
+54609 https://lichess.org/training/0YyIh
 [Be5+ Kf7 Bxh8] fullTrueMatch
 1: {Be5+}
 2: {Be5+}
 3: {Be5+ Kxg6+}{Be5+ Kh6+}{Be5+ Kf7}{Be5+ Kh7}{Be5+ Kf8+}{Be5+ Kg8}{Be5+ Kxh8+}
 4: {Be5+ Kxg6+ Bxh8+}{Be5+ Kh6+ Bxh8+}{Be5+ Kf7 Bxh8}{Be5+ Kh7 Bxh8}{Be5+ Kf8+ Bxh8+}{Be5+ Kg8 Bxh8}
-45549 https://lichess.org/training/0baVh
+58679 https://lichess.org/training/0baVh
 [Bg5+ Ke8 Bxd8] fullTrueMatch
 1: {Bg5+}{Bf8+}
 2: {Bg5+}
 3: {Bg5+ Kxd6+}{Bg5+ Ke6+}{Bg5+ Kd7}{Bg5+ Kf7+}{Bg5+ Kxd8+}{Bg5+ Ke8}{Bg5+ Kf8}
 4: {Bg5+ Kxd6+ Bxd8#}{Bg5+ Ke6+ Bxd8+}{Bg5+ Kd7 Bxd8}{Bg5+ Kf7+ Bxd8+}{Bg5+ Ke8 Bxd8}{Bg5+ Kf8 Bxd8}
-46127 https://lichess.org/training/0c5zm
+59419 https://lichess.org/training/0c5zm
 [Bf5+ Kd2 Bxc2] fullTrueMatch
 1: {Bf5+}{Ba6+}
 2: {Bf5+}
 3: {Bf5+ Kxc2+}{Bf5+ Kd2}{Bf5+ Ke2+}{Bf5+ Kxc3+}{Bf5+ Kxe3+}{Bf5+ Kc4+}{Bf5+ Kxd4}
 4: {Bf5+ Kd2 Bxc2}{Bf5+ Ke2+ Bxc2+}{Bf5+ Kxc3+ Bxc2+}{Bf5+ Kxe3+ Bxc2+}{Bf5+ Kc4+ Bxc2+}{Bf5+ Kxd4 Bxc2}
-47642 https://lichess.org/training/0dNfI
+61362 https://lichess.org/training/0dNfI
 [Bg5+ Kd6 Bxd8] fullTrueMatch
 1: {Bg5+}
 2: {Bg5+}
 3: {Bg5+ Kd6}{Bg5+ Kxe6}{Bg5+ Kd7+}{Bg5+ Kf7+}{Bg5+ Kxd8+}{Bg5+ Ke8+}{Bg5+ Kf8+}
 4: {Bg5+ Kd6 Bxd8}{Bg5+ Kxe6 Bxd8}{Bg5+ Kd7+ Bxd8+}{Bg5+ Kf7+ Bxd8+}{Bg5+ Ke8+ Bxd8+}{Bg5+ Kf8+ Bxd8+}
-63915 https://lichess.org/training/0qkpA
+73330 https://lichess.org/training/0l4IY
+[Bxe4+ Kd2 Bxc2] fullTrueMatch
+1: {Bxe4+}
+2: {Bxe4+}
+3: {Bxe4+ Kxc2+}{Bxe4+ Kd2}{Bxe4+ Ke2}{Bxe4+ Kc3+}{Bxe4+ Kxe3}{Bxe4+ Kc4}{Bxe4+ Kd4+}{Bxe4+ Kxe4}
+4: {Bxe4+ Kd2 Bxc2}{Bxe4+ Ke2 Bxc2}{Bxe4+ Kc3+ Bxc2+}{Bxe4+ Kxe3 Bxc2}{Bxe4+ Kc4 Bxc2}{Bxe4+ Kd4+ Bxc2+}
+82189 https://lichess.org/training/0qkpA
 [Bxe4+ Ka6 Bxa8] fullTrueMatch
 1: {Bxe4+}
 2: {Bxe4+}
 3: {Bxe4+ Ka6}{Bxe4+ Kxb6}{Bxe4+ Ka7}{Bxe4+ Kxc7}{Bxe4+ Kxa8+}{Bxe4+ Kb8}{Bxe4+ Kc8}
 4: {Bxe4+ Ka6 Bxa8}{Bxe4+ Kxb6 Bxa8}{Bxe4+ Ka7 Bxa8}{Bxe4+ Kxc7 Bxa8}{Bxe4+ Kb8 Bxa8}{Bxe4+ Kc8 Bxa8}
-67328 https://lichess.org/training/0taCT
+86633 https://lichess.org/training/0taCT
 [Bxg5+ Kf8 Bxd8] fullTrueMatch
 1: {Bxg5+}
 2: {Bxg5+}
 3: {Bxg5+ Kd6+}{Bxg5+ Ke6+}{Bxg5+ Kxd7+}{Bxg5+ Kf7}{Bxg5+ Kxd8+}{Bxg5+ Ke8}{Bxg5+ Kf8}
 4: {Bxg5+ Kd6+ Bxd8+}{Bxg5+ Ke6+ Bxd8+}{Bxg5+ Kxd7+ Bxd8+}{Bxg5+ Kf7 Bxd8}{Bxg5+ Ke8 Bxd8}{Bxg5+ Kf8 Bxd8}
-73369 https://lichess.org/training/0ySfp
+94417 https://lichess.org/training/0ySfp
 [Bh3+ Kf7 Bxc8] fullTrueMatch
 1: {Bh3+}{Bc4+}
 2: {Bh3+}
 3: {Bh3+ Kd5+}{Bh3+ Ke5+}{Bh3+ Kxd6+}{Bh3+ Kf6}{Bh3+ Kd7+}{Bh3+ Ke7+}{Bh3+ Kf7}
 4: {Bh3+ Kd5+ Bxc8+}{Bh3+ Ke5+ Bxc8+}{Bh3+ Kxd6+ Bxc8+}{Bh3+ Kf6 Bxc8}{Bh3+ Ke7+ Bxc8+}{Bh3+ Kf7 Bxc8}
-80060 https://lichess.org/training/13tYd
+103025 https://lichess.org/training/13tYd
 [Be7+ Kf5 Bxg5] fullTrueMatch
 1: {Be7+}
 2: {Be7+}
 3: {Be7+ Kxe5+}{Be7+ Kf5}{Be7+ Kxg5+}{Be7+ Kxe6}{Be7+ Kxg6+}{Be7+ Kxe7}{Be7+ Kxf7+}{Be7+ Kg7}
 4: {Be7+ Kxe5+ Bxg5+}{Be7+ Kf5 Bxg5}{Be7+ Kxe6 Bxg5}{Be7+ Kxg6+ Bxg5+}{Be7+ Kxf7+ Bxg5+}{Be7+ Kg7 Bxg5}
-80560 https://lichess.org/training/14JxI
+103660 https://lichess.org/training/14JxI
 [Bg5+ Kf7 Bxd8] fullTrueMatch
 1: {Bg5+}
 2: {Bg5+}
 3: {Bg5+ Kd6}{Bg5+ Kxe6}{Bg5+ Kd7}{Bg5+ Kf7}{Bg5+ Kxd8+}{Bg5+ Ke8}{Bg5+ Kf8}
 4: {Bg5+ Kd6 Bxd8}{Bg5+ Kxe6 Bxd8}{Bg5+ Kd7 Bxd8}{Bg5+ Kf7 Bxd8}{Bg5+ Ke8 Bxd8}{Bg5+ Kf8 Bxd8}
-81689 https://lichess.org/training/15B8V
+105098 https://lichess.org/training/15B8V
 [Be8+ Kg7 Bxg6] fullTrueMatch
 1: {Bc4+}{Be8+}
 2: {Be8+}
 3: {Be8+ Ke6+}{Be8+ Kf6}{Be8+ Kxg6+}{Be8+ Ke7+}{Be8+ Kg7}{Be8+ Kxe8+}{Be8+ Kxf8}{Be8+ Kxg8}
 4: {Be8+ Ke6+ Bxg6+}{Be8+ Kf6 Bxg6}{Be8+ Ke7+ Bxg6+}{Be8+ Kg7 Bxg6}{Be8+ Kxf8 Bxg6}{Be8+ Kxg8 Bxg6}
-81911 https://lichess.org/training/15OFU
+105399 https://lichess.org/training/15OFU
 [Bxg4+ Kd2 Bxd1] fullTrueMatch
 1: {Bxg4+}
 2: {Bxg4+}
 3: {Bxg4+ Kxd1+}{Bxg4+ Ke1+}{Bxg4+ Kxf1}{Bxg4+ Kd2}{Bxg4+ Kf2+}{Bxg4+ Kd3}{Bxg4+ Kxe3+}
 4: {Bxg4+ Ke1+ Bxd1+}{Bxg4+ Kxf1 Bxd1}{Bxg4+ Kd2 Bxd1}{Bxg4+ Kf2+ Bxd1+}{Bxg4+ Kd3 Bxd1}{Bxg4+ Kxe3+ Bxd1+}
-84284 https://lichess.org/training/17KQH
+108503 https://lichess.org/training/17KQH
 [Bg5+ Kg7 Bxd8] fullTrueMatch
 1: {Bg5+}
 2: {Bg5+}
 3: {Bg5+ Kxe5+}{Bg5+ Kf5}{Bg5+ Kxg5+}{Bg5+ Ke6+}{Bg5+ Kxg6}{Bg5+ Ke7+}{Bg5+ Kf7+}{Bg5+ Kg7}
 4: {Bg5+ Kxe5+ Bxd8+}{Bg5+ Kf5 Bxd8}{Bg5+ Ke6+ Bxd8+}{Bg5+ Kxg6 Bxd8}{Bg5+ Kf7+ Bxd8+}{Bg5+ Kg7 Bxd8}
-86822 https://lichess.org/training/19Ouk
+111749 https://lichess.org/training/19Ouk
 [Bg5+ Ke8 Bxd8] fullTrueMatch
 1: {Bg5+}
 2: {Bg5+}
 3: {Bg5+ Kd6}{Bg5+ Ke6}{Bg5+ Kxd7+}{Bg5+ Kf7}{Bg5+ Kxd8+}{Bg5+ Ke8}{Bg5+ Kxf8}
 4: {Bg5+ Kd6 Bxd8}{Bg5+ Ke6 Bxd8}{Bg5+ Kxd7+ Bxd8+}{Bg5+ Kf7 Bxd8}{Bg5+ Ke8 Bxd8}{Bg5+ Kxf8 Bxd8}
-94013 https://lichess.org/training/1FEZS
+120949 https://lichess.org/training/1FEZS
 [Bg7+ Kg5 Bxd4] fullTrueMatch
 1: {Bg5+}{Bg7+}
 2: {Bg7+}
 3: {Bg7+ Ke5+}{Bg7+ Kxf5}{Bg7+ Kg5}{Bg7+ Kxe6}{Bg7+ Kxg6}{Bg7+ Ke7+}{Bg7+ Kf7+}{Bg7+ Kxg7+}
 4: {Bg7+ Kxf5 Bxd4}{Bg7+ Kg5 Bxd4}{Bg7+ Kxe6 Bxd4}{Bg7+ Kxg6 Bxd4}{Bg7+ Ke7+ Bxd4+}{Bg7+ Kf7+ Bxd4+}
-94156 https://lichess.org/training/1FLP9
+121127 https://lichess.org/training/1FLP9
 [Bxg4+ Kd3 Bxd1] fullTrueMatch
 1: {Bxg4+}
 2: {Bxg4+}
 3: {Bxg4+ Kxd1+}{Bxg4+ Ke1+}{Bxg4+ Kxf1+}{Bxg4+ Kd2+}{Bxg4+ Kf2+}{Bxg4+ Kd3}{Bxg4+ Ke3}
 4: {Bxg4+ Ke1+ Bxd1+}{Bxg4+ Kxf1+ Bxd1+}{Bxg4+ Kd2+ Bxd1+}{Bxg4+ Kf2+ Bxd1+}{Bxg4+ Kd3 Bxd1}{Bxg4+ Ke3 Bxd1}
-102651 https://lichess.org/training/1MOd3
-[Bg5+ Ke8 Bxd8] fullTrueMatch
-1: {Bg5+}
-2: {Bg5+}
-3: {Bg5+ Kd6}{Bg5+ Kxe6}{Bg5+ Kd7}{Bg5+ Kf7+}{Bg5+ Kxd8+}{Bg5+ Ke8}{Bg5+ Kxf8+}
-4: {Bg5+ Kd6 Bxd8}{Bg5+ Kxe6 Bxd8}{Bg5+ Kd7 Bxd8}{Bg5+ Kf7+ Bxd8+}{Bg5+ Ke8 Bxd8}{Bg5+ Kxf8+ Bxd8+}
-108653 https://lichess.org/training/1RFTO
-[Bg4+ Kd6 Bxc8] fullTrueMatch
-1: {Bg4+}{Bc6+}
+128702 https://lichess.org/training/1KFd7
+[Bg4+ Ke1 Bxd1] fullTrueMatch
+1: {Bg4+}
 2: {Bg4+}
-3: {Bg4+ Kc6}{Bg4+ Kd6}{Bg4+ Kc7+}{Bg4+ Ke7}{Bg4+ Kxc8+}{Bg4+ Kd8+}{Bg4+ Ke8}
-4: {Bg4+ Kc6 Bxc8}{Bg4+ Kd6 Bxc8}{Bg4+ Kc7+ Bxc8+}{Bg4+ Ke7 Bxc8}{Bg4+ Kd8+ Bxc8+}{Bg4+ Ke8 Bxc8}
+3: {Bg4+ Kxd1+}{Bg4+ Ke1}{Bg4+ Kf1+}{Bg4+ Kd2}{Bg4+ Kf2+}{Bg4+ Kd3}{Bg4+ Ke3}
+4: {Bg4+ Ke1 Bxd1}{Bg4+ Kf1+ Bxd1+}{Bg4+ Kd2 Bxd1}{Bg4+ Kf2+ Bxd1+}{Bg4+ Kd3 Bxd1}{Bg4+ Ke3 Bxd1}

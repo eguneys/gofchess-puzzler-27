@@ -1,0 +1,104 @@
+0.00 ms per puzzle, took 27210ms
+FirstM:3774 N:6008632 F:0 FF:0 T:8 FullT: 1968
+Coverage:0.10% Accuracy:65.77%
+Total:6014382                                                        
+1393 https://lichess.org/training/00t2W
+[Nxg3 Rxe8+ Rxe8 Qxf5 Nxf5] firstMoveMatch
+1: {}
+2: {}
+3: {Nxg3}
+4: {Nxg3}
+5: 
+6: 
+7: 
+8: 
+4864 https://lichess.org/training/038W6
+[Nxc4 Qxe3+ Nxe3] firstMoveMatch
+1: {}
+2: {}
+3: {Nxc4}{Nxd7}{Nxf7}
+4: {Nxc4}
+5: 
+6: 
+7: 
+8: 
+6718 https://lichess.org/training/04JEF
+[Nxc3 Qxc5 Rxd1# Qg1 Rxg1+] firstMoveMatch
+1: {}
+2: {}
+3: {Nxc3}{Nxf4}
+4: {Nxc3}{Nxf4}
+5: 
+6: 
+7: 
+8: 
+6835 https://lichess.org/training/04Ngl
+[Nxd6 Qxc4 Nxc4] firstMoveMatch
+1: {}
+2: {}
+3: {Nxd6}{Nxf6+}
+4: {Nxd6}
+5: 
+6: 
+7: 
+8: 
+7565 https://lichess.org/training/04qXp
+[Nxd5 Qxd3 Rxc8+] firstMoveMatch
+1: {}
+2: {}
+3: {Nxe4}{Nxd5}
+4: {Nxe4}{Nxd5}
+5: 
+6: 
+7: 
+8: 
+7625 https://lichess.org/training/04sq3
+[Nxe5 Qxe7 Nxf3+ Nxf3 Bxe7] firstMoveMatch
+1: {}
+2: {}
+3: {Nxe5}
+4: {Nxe5}
+5: 
+6: 
+7: 
+8: 
+8901 https://lichess.org/training/05hcE
+[Nxg6 Qxg4 Nxe7+ Rxe7 Nxg4] firstMoveMatch
+1: {}
+2: {}
+3: {Nxd5}{Nxg6}
+4: {Nxg6}
+5: 
+6: 
+7: 
+8: 
+11866 https://lichess.org/training/07b7A
+[Nxg5 Rxe8+ Rxe8 Qxg6 Nxf3+] firstMoveMatch
+1: {}
+2: {}
+3: {Nxc3}{Nxg5}
+4: {Nxg5}
+5: 
+6: 
+7: 
+8: 
+13427 https://lichess.org/training/08ZuJ
+[Nxe3 Qxd5 Nxd5] firstMoveMatch
+1: {}
+2: {}
+3: {Nxe3}{Nxg3}{Nxd4}
+4: {Nxe3}{Nxg3}{Nxd4}
+5: 
+6: 
+7: 
+8: 
+14595 https://lichess.org/training/09Jp9
+[Nxh3+ Kf1 Qxd2] firstMoveMatch
+1: {}
+2: {}
+3: {Nxe2+}{Nxg2}{Nxh3+}{Nxd5}
+4: {Nxg2}{Nxh3+}
+5: {Nxh3+}
+6: {Nxh3+ gxh3}{Nxh3+ Rxh3}
+7: {Nxh3+ gxh3}{Nxh3+ Rxh3}
+8: {Nxh3+ gxh3 Qxd2}{Nxh3+ Rxh3 Qxd2}
