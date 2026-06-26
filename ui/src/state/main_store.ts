@@ -10,6 +10,7 @@ export type MainState = {
     selected_style: Style
     subtitle_list_open: boolean
     selected_puzzle: Puzzle
+    nb_selected_style_length: number
 }
 
 export type MainActions = {
@@ -44,6 +45,9 @@ export function createMain(): [MainState, MainActions] {
     })
 
     let state = {
+        get nb_selected_style_length() {
+            return puzzles()?.length ?? 0
+        },
         get selected_puzzle() {
             return selected_puzzle()
         },

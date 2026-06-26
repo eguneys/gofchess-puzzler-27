@@ -58,7 +58,7 @@ function App() {
 
             <A href={`https://lichess.org/training/${player.id}`}>Lichess Puzzle: {player.id}</A>
             <h4 class='info-title'>Goal: {main.selected_goal.name}</h4>
-            <h5 class='info-subtitle' onClick={() => set_subtitle_list_open(!main.subtitle_list_open)}>Style: {main.selected_style.description}</h5>
+            <h5 class='info-subtitle' onClick={() => set_subtitle_list_open(!main.subtitle_list_open)}>Style: {main.selected_style.description} ({main.nb_selected_style_length})</h5>
             <div class='info-subtitle-list'>
               <Show when={main.subtitle_list_open}>
                 <SubtitleList />

@@ -99,8 +99,8 @@ main.layout {
                 transition: all .3s;
 
                 &.hidden, &.hidden .index {
-                    background: core.$neutral-500;
-                    color: core.$neutral-500;
+                    background: core.$neutral-700;
+                    color: core.$neutral-700;
                     border-radius: core.$radius;
                 }
             }
