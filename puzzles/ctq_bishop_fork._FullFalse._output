@@ -1,0 +1,65 @@
+0.01 ms per puzzle, took 35917ms
+FirstM:289384 N:4340836 F:1365884 T:13327
+FFM:19  FF:4786  FullT: 145
+Coverage:27.83% Accuracy:18.09%
+Total:6014381                                
+557 https://lichess.org/training/00M7w
+[Ne2 Qxf2+ Qxf2 Bxf2+ Kxf2] fullFalseMatch
+1: {Bxc6+}
+2: {Bxc6+}
+3: {Bxc6+ Qxc6+}
+4: {Bxc6+ Qxc6+ bxc6}
+828 https://lichess.org/training/00WcO
+[Bxc6+ bxc6 Qxc6+] fullFalseMatch
+1: {Bxc6+}
+2: {Bxc6+}
+3: {Bxc6+ Qxc6+}
+4: {Bxc6+ Qxc6+ bxc6}
+2275 https://lichess.org/training/01UXl
+[Bxc6+ bxc6 Qxc6+ Qd7 Qxa8] fullFalseMatch
+1: {Bxc6+}
+2: {Bxc6+}
+3: {Bxc6+ Qxc6+}
+4: {Bxc6+ Qxc6+ bxc6}
+2965 https://lichess.org/training/01wG2
+[Kh8 Nf5 Bxc3+ bxc3 Qxc3+] fullFalseMatch
+1: {Bxf2+}{Bxc3+}
+2: {Bxc3+}
+3: {Bxc3+ Qxc3+}
+4: {Bxc3+ Qxc3+ bxc3+}
+5201 https://lichess.org/training/03LO0
+[Bxc6+ bxc6 Qxc6# Qd7 Qxa8#] fullFalseMatch
+1: {Bxc6+}
+2: {Bxc6+}
+3: {Bxc6+ Qxc6+}
+4: {Bxc6+ Qxc6+ bxc6}
+6415 https://lichess.org/training/045kt
+[Bxc3+ bxc3 Qxc3+] fullFalseMatch
+1: {Bxa3}{Bxc3+}
+2: {Bxc3+}
+3: {Bxc3+ Qxc3+}
+4: {Bxc3+ Qxc3+ bxc3}
+6541 https://lichess.org/training/04BBn
+[Bxe6+ Kxe6 Qxh3+] fullFalseMatch
+1: {Bxe6+}{Bxb7+}
+2: {Bxe6+}
+3: {Bxe6+ Qxe6+}
+4: {Bxe6+ Qxe6+ fxe6+}
+11234 https://lichess.org/training/07Cdo
+[Bxf7+ Kxf7 Bd6+ Ke8 Bxc5] fullFalseMatch
+1: {Bxc6+}{Bxf7+}
+2: {Bxc6+}
+3: {Bxc6+ Qxc6+}
+4: {Bxc6+ Qxc6+ bxc6}
+12093 https://lichess.org/training/07ilT
+[Bxc3+ bxc3 Qxc3+ Qd2 Qxa1] fullFalseMatch
+1: {Bxf2+}{Bxc3+}
+2: {Bxc3+}
+3: {Bxc3+ Qxc3+}
+4: {Bxc3+ Qxc3+ bxc3}
+13210 https://lichess.org/training/08R3f
+[Bxc6+ bxc6 Qxc6+] fullFalseMatch
+1: {Bxc6+}{Bxf7+}
+2: {Bxc6+}
+3: {Bxc6+ Qxc6+}
+4: {Bxc6+ Qxc6+ bxc6}

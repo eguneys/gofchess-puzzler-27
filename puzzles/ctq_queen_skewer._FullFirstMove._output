@@ -1,0 +1,85 @@
+0.01 ms per puzzle, took 45304ms
+FirstM:724359 N:3037299 F:1889140 T:323099
+FFM:365  FF:33339  FullT: 6780
+Coverage:49.50% Accuracy:35.18%
+Total:6014381                            
+26131 https://lichess.org/training/0Gh5x
+[Qh1+ Ke2 Qxd5 cxd5 Nxd8] fullFirstMoveMatch
+1: {Qd1+}{Qf1+}{Qh1+}{Qe4+}
+2: {Qd1+}{Qf1+}{Qh1+}{Qe4+}
+3: {Qh1+}
+4: {Qh1+ Ke2}{Qh1+ Kf2}{Qh1+ Kxe3}{Qh1+ Kg3}{Qh1+ Ke4+}{Qh1+ Kxf4}{Qh1+ Kxg4}
+5: {Qh1+ Ke2}{Qh1+ Kf2}{Qh1+ Kxe3}{Qh1+ Kg3}{Qh1+ Kxf4}{Qh1+ Kxg4}
+6: {Qh1+ Ke2 Qxd5}{Qh1+ Kf2 Qxd5}{Qh1+ Kxe3 Qxd5}{Qh1+ Kg3 Qxd5}{Qh1+ Kxf4 Qxd5}{Qh1+ Kxg4 Qxd5}
+42259 https://lichess.org/training/0R2L1
+[Qh8+ Ke7 Qxb2 a1=Q Qxa1] fullFirstMoveMatch
+1: {Qe5+}{Qc6+}{Qe6+}{Qe7+}{Qxf7+}{Qd8+}{Qh8+}
+2: {Qe5+}{Qc6+}{Qe6+}{Qe7+}{Qxf7+}{Qd8+}{Qh8+}
+3: {Qh8+}
+4: {Qh8+ Ke5+}{Qh8+ Kf5}{Qh8+ Kg5}{Qh8+ Ke6}{Qh8+ Kg6}{Qh8+ Ke7}{Qh8+ Kxf7}
+5: {Qh8+ Ke5+}{Qh8+ Kf5}{Qh8+ Kg5}{Qh8+ Ke6}{Qh8+ Kg6}{Qh8+ Ke7}{Qh8+ Kxf7}
+6: {Qh8+ Kf5 Qxb2}{Qh8+ Kg5 Qxb2}{Qh8+ Ke6 Qxb2}{Qh8+ Kg6 Qxb2}{Qh8+ Ke7 Qxb2}{Qh8+ Kxf7 Qxb2}
+42340 https://lichess.org/training/0R563
+[Qh6+ Kf7 Qxa6 Rxb5 Qxb5] fullFirstMoveMatch
+1: {Qa1+}{Qb2+}{Qc3+}{Qg5+}{Qc6+}{Qh6+}
+2: {Qa1+}{Qc3+}{Qg5+}{Qc6+}{Qh6+}
+3: {Qh6+}
+4: {Qh6+ Ke5}{Qh6+ Kxf5}{Qh6+ Ke6+}{Qh6+ Ke7}{Qh6+ Kf7}
+5: {Qh6+ Ke5}{Qh6+ Kxf5}{Qh6+ Ke6+}{Qh6+ Ke7}{Qh6+ Kf7}
+6: {Qh6+ Ke5 Qxa6}{Qh6+ Kxf5 Qxa6}{Qh6+ Ke7 Qxa6}{Qh6+ Kf7 Qxa6}
+55749 https://lichess.org/training/0ZgqY
+[Qh8+ Kg5 Qxh1 Bxh1 Kc5] fullFirstMoveMatch
+1: {Qh2+}{Qe3+}{Qf4+}{Qg5+}{Qh5+}{Qg7+}{Qh8+}
+2: {Qh2+}{Qe3+}{Qf4+}{Qg5+}{Qh5+}{Qg7+}{Qh8+}
+3: {Qh8+}
+4: {Qh8+ Kg5}{Qh8+ Kh5+}{Qh8+ Kxg6}
+5: {Qh8+ Kg5}{Qh8+ Kh5+}{Qh8+ Kxg6}
+6: {Qh8+ Kg5 Qxh1}{Qh8+ Kxg6 Qxh1}
+66695 https://lichess.org/training/0gqSS
+[Qg1+ Kd5 Qxa7 c4+ Ka4] fullFirstMoveMatch
+1: {Qg1+}{Qxc3+}{Qe3+}{Qf4+}
+2: {Qg1+}{Qxc3+}{Qe3+}{Qf4+}
+3: {Qg1+}{Qe3+}
+4: {Qg1+ Kxc3}{Qg1+ Kxd3}{Qg1+ Kc4+}{Qg1+ Ke4}{Qg1+ Kc5+}{Qg1+ Kd5}{Qg1+ Kxe5}{Qe3+ Kxc3}{Qe3+ Kxe3}{Qe3+ Kc4+}{Qe3+ Kc5+}{Qe3+ Kd5}
+5: {Qg1+ Kxc3}{Qg1+ Kxd3}{Qg1+ Kc4+}{Qg1+ Ke4}{Qg1+ Kc5+}{Qg1+ Kd5}{Qg1+ Kxe5}{Qe3+ Kxc3}{Qe3+ Kxe3}{Qe3+ Kc4+}{Qe3+ Kc5+}{Qe3+ Kd5}
+6: {Qg1+ Kxc3 Qxa7}{Qg1+ Kxd3 Qxa7}{Qg1+ Kc4+ Qxa7+}{Qg1+ Ke4 Qxa7}{Qg1+ Kd5 Qxa7}{Qg1+ Kxe5 Qxa7}{Qe3+ Kxc3 Qxa7}{Qe3+ Kc4+ Qxa7+}{Qe3+ Kd5 Qxa7}
+76170 https://lichess.org/training/0muK1
+[Qe8+ Kd4 Qxe2 d1=Q+ Qxd1+] fullFirstMoveMatch
+1: {Qc3+}{Qe4+}{Qb5+}{Qc5+}{Qd5+}{Qd6+}{Qe6+}{Qf6+}{Qc7+}{Qe8+}
+2: {Qc3+}{Qe4+}{Qb5+}{Qc5+}{Qd5+}{Qd6+}{Qe6+}{Qf6+}{Qc7+}{Qe8+}
+3: {Qe6+}{Qe8+}
+4: {Qe6+ Kd4}{Qe6+ Ke4+}{Qe6+ Kf4}{Qe6+ Kxe6}{Qe8+ Kd4}{Qe8+ Ke4+}{Qe8+ Kf4}{Qe8+ Kd5}{Qe8+ Kf5}{Qe8+ Kd6}{Qe8+ Kf6}
+5: {Qe6+ Kd4}{Qe6+ Ke4+}{Qe6+ Kf4}{Qe6+ Kxe6}{Qe8+ Kd4}{Qe8+ Ke4+}{Qe8+ Kf4}{Qe8+ Kd5}{Qe8+ Kf5}{Qe8+ Kd6}{Qe8+ Kf6}
+6: {Qe6+ Kd4 Qxe2}{Qe6+ Kf4 Qxe2}{Qe8+ Kd4 Qxe2}{Qe8+ Kf4 Qxe2}{Qe8+ Kd5 Qxe2}{Qe8+ Kf5 Qxe2}{Qe8+ Kd6 Qxe2}{Qe8+ Kf6 Qxe2}
+93466 https://lichess.org/training/0xrTe
+[Qg7+ Ke4 Qxc3 c1=Q Qxc1] fullFirstMoveMatch
+1: {Qe3+}{Qxg3+}{Qf4+}{Qxf5+}{Qf6+}{Qe7+}{Qg7+}
+2: {Qe3+}{Qxf5+}{Qf6+}{Qe7+}{Qg7+}
+3: {Qf6+}{Qg7+}
+4: {Qf6+ Kd4+}{Qf6+ Ke4}{Qf6+ Kf4+}{Qf6+ Kd5}{Qf6+ Kxf6}{Qg7+ Kd4+}{Qg7+ Ke4}{Qg7+ Kf4+}{Qg7+ Kd5}{Qg7+ Kxf5}{Qg7+ Kd6}{Qg7+ Ke6}
+5: {Qf6+ Ke4}{Qf6+ Kf4+}{Qf6+ Kd5}{Qf6+ Kxf6}{Qg7+ Ke4}{Qg7+ Kf4+}{Qg7+ Kd5}{Qg7+ Kxf5}{Qg7+ Kd6}{Qg7+ Ke6}
+6: {Qf6+ Ke4 Qxc3}{Qf6+ Kf4+ Qxc3+}{Qf6+ Kd5 Qxc3}{Qg7+ Ke4 Qxc3}{Qg7+ Kf4+ Qxc3+}{Qg7+ Kd5 Qxc3}{Qg7+ Kxf5 Qxc3}{Qg7+ Kd6 Qxc3}{Qg7+ Ke6 Qxc3}
+101941 https://lichess.org/training/13Bys
+[Qh7+ Ke6 Qxb7 Rxb7 Rxb4] fullFirstMoveMatch
+1: {Qh7+}
+2: {Qh7+}
+3: {Qh7+}
+4: {Qh7+ Ke6}{Qh7+ Kxf6}{Qh7+ Ke7+}{Qh7+ Ke8}{Qh7+ Kxf8}
+5: {Qh7+ Ke6}{Qh7+ Kxf6}{Qh7+ Ke7+}{Qh7+ Ke8}{Qh7+ Kxf8}
+6: {Qh7+ Ke6 Qxb7}{Qh7+ Kxf6 Qxb7}{Qh7+ Ke8 Qxb7}{Qh7+ Kxf8 Qxb7}
+103188 https://lichess.org/training/140Mt
+[Qa8+ Kb4 Qxa1 Rxa1 h8=Q] fullFirstMoveMatch
+1: {Qa3+}{Qb4+}{Qa8+}{Qd8+}
+2: {Qa3+}{Qb4+}{Qa8+}{Qd8+}
+3: {Qa8+}
+4: {Qa8+ Ka4+}{Qa8+ Kb4}{Qa8+ Kxb5}{Qa8+ Kb6}
+5: {Qa8+ Ka4+}{Qa8+ Kb4}{Qa8+ Kxb5}{Qa8+ Kb6}
+6: {Qa8+ Kb4 Qxa1}{Qa8+ Kxb5 Qxa1}{Qa8+ Kb6 Qxa1}
+118636 https://lichess.org/training/1Djaz
+[Qh8+ Ke7 Qxb2 a1=Q Qxa1] fullFirstMoveMatch
+1: {Qe5+}{Qc6+}{Qe6+}{Qe7+}{Qxf7+}{Qd8+}{Qh8+}
+2: {Qc6+}{Qe6+}{Qe7+}{Qxf7+}{Qd8+}{Qh8+}
+3: {Qh8+}
+4: {Qh8+ Ke5+}{Qh8+ Kf5}{Qh8+ Kg5+}{Qh8+ Ke6}{Qh8+ Kxg6}{Qh8+ Ke7}{Qh8+ Kxf7}
+5: {Qh8+ Ke5+}{Qh8+ Kf5}{Qh8+ Kg5+}{Qh8+ Ke6}{Qh8+ Kxg6}{Qh8+ Ke7}{Qh8+ Kxf7}
+6: {Qh8+ Kf5 Qxb2}{Qh8+ Kg5+ Qxb2+}{Qh8+ Ke6 Qxb2}{Qh8+ Kxg6 Qxb2}{Qh8+ Ke7 Qxb2}{Qh8+ Kxf7 Qxb2}

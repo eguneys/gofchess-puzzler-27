@@ -1,0 +1,45 @@
+0.01 ms per puzzle, took 35110ms
+FirstM:0 N:5979315 F:0 T:0
+FFM:8586  FF:21792  FullT: 4688
+Coverage:0.58% Accuracy:0.00%
+Total:6014381                                             
+796 https://lichess.org/training/00VEX
+[Rxe4 Bxf6 gxf6] fullFirstMoveMatch
+1: {}
+2: {Rxe4}
+1135 https://lichess.org/training/00i6P
+[Rxf8+ Rxf8 c5 Rd8 c6] fullFirstMoveMatch
+1: {}
+2: {Rxf8+}
+1315 https://lichess.org/training/00q7B
+[Rxa8 exf6+ Kxf6 Ne4+ Kf7 Nxc5 dxc5] fullFirstMoveMatch
+1: {}
+2: {Rxa8}
+1901 https://lichess.org/training/01F1G
+[Rxd1 Rxe6 Bxa8] fullFirstMoveMatch
+1: {}
+2: {Rxd1}
+1977 https://lichess.org/training/01IKl
+[Rxc8 Ra1 Rxc4 Rxa5+ bxa5] fullFirstMoveMatch
+1: {}
+2: {Rxc8}
+2036 https://lichess.org/training/01Kjm
+[Rxe4 b8=Q Ra4+ Kb7 Rb4+ Kc8 Rxb8+] fullFirstMoveMatch
+1: {}
+2: {Rxe4}
+2293 https://lichess.org/training/01VAQ
+[Rxe8# Rf8 Rxf8#] fullFirstMoveMatch
+1: {}
+2: {Rxe8#}
+3311 https://lichess.org/training/029Qb
+[Rxd1# Re1 Rxe1#] fullFirstMoveMatch
+1: {}
+2: {Rxd1#}
+3623 https://lichess.org/training/02LQB
+[Rxd2 Rxa1+ Kh2] fullFirstMoveMatch
+1: {}
+2: {Rxd2}
+4283 https://lichess.org/training/02lVn
+[Rxe7 Rc8+ Re8] fullFirstMoveMatch
+1: {}
+2: {Rxe7}

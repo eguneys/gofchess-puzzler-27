@@ -1,0 +1,65 @@
+0.01 ms per puzzle, took 43212ms
+FirstM:407011 N:3229678 F:2149337 T:54288
+FFM:5051  FF:99321  FullT: 69695
+Coverage:46.30% Accuracy:16.57%
+Total:6014381                           
+88 https://lichess.org/training/003jH
+[Nd3+ Ke3 Nxf4 Rxh5 Nxh5] fullFirstMoveMatch
+1: {Nd3+}{Nf3}{Nc4}{Ng4+}{Nc6}{Ng6}{Nd7}{Nf7}{Na6}{Nc6}{Nd7}
+2: {Nd3+}
+3: {Nd3+ Kf1}{Nd3+ Kg1}{Nd3+ Ke2+}{Nd3+ Kxg2}{Nd3+ Ke3}{Nd3+ Kf3+}{Nd3+ Kg3}
+4: {Nd3+ Kf1 Nxf4}{Nd3+ Kg1 Nxf4}{Nd3+ Ke2+ Nxf4+}{Nd3+ Kxg2 Nxf4+}{Nd3+ Ke3 Nxf4}{Nd3+ Kf3+ Nxf4+}{Nd3+ Kg3 Nxf4}
+253 https://lichess.org/training/00Aas
+[Ne2+ Kh1 Nxg3+ fxg3 Rxd2] fullFirstMoveMatch
+1: {Ne2+}{Nb3}{Nf3+}{Nb5}{Nf5}{Nc6}{Ne6}
+2: {Ne2+}
+3: {Ne2+ Kxf1}{Ne2+ Kh1}{Ne2+ Kxf2}{Ne2+ Kxg2}{Ne2+ Kxh2}
+4: {Ne2+ Kxf1 Nxg3+}{Ne2+ Kh1 Nxg3+}{Ne2+ Kxf2 Nxg3}{Ne2+ Kxg2 Nxg3}{Ne2+ Kxh2 Nxg3}
+2682 https://lichess.org/training/01lB9
+[Nf3+ Kg2 Nxd4 Bxb8 Kxb8] fullFirstMoveMatch
+1: {Nf3+}{Ng4}{Nc6}{Ng6}{Nf7}
+2: {Nf3+}
+3: {Nf3+ Kxf1}{Nf3+ Kh1}{Nf3+ Kxf2}{Nf3+ Kg2}
+4: {Nf3+ Kxf1 Nxd4}{Nf3+ Kh1 Nxd4}{Nf3+ Kxf2 Nxd4}{Nf3+ Kg2 Nxd4}
+3943 https://lichess.org/training/02XhI
+[Na7+ Kb8 Nxc6+ bxc6 Kxh2] fullFirstMoveMatch
+1: {Na3}{Nc3}{Nd4}{Na7+}
+2: {Na7+}
+3: {Na7+ Kxb7}{Na7+ Kxc7}{Na7+ Kd7}{Na7+ Kb8}{Na7+ Kxd8}
+4: {Na7+ Kxb7 Nxc6}{Na7+ Kxc7 Nxc6}{Na7+ Kd7 Nxc6}{Na7+ Kb8 Nxc6+}{Na7+ Kxd8 Nxc6+}
+4366 https://lichess.org/training/02ovT
+[Ne7+ Kh8 Nxg6+ fxg6 Qe3] fullFirstMoveMatch
+1: {Nc3}{Ne3}{Nb4}{Nf4}{Nb6}{Nf6+}{Nc7}{Ne7+}
+2: {Ne7+}
+3: {Ne7+ Kxf7+}{Ne7+ Kxg7}{Ne7+ Kxh7}{Ne7+ Kxf8}{Ne7+ Kh8}
+4: {Ne7+ Kxf7+ Nxg6+}{Ne7+ Kxg7 Nxg6}{Ne7+ Kxh7 Nxg6}{Ne7+ Kxf8 Nxg6+}{Ne7+ Kh8 Nxg6+}
+5212 https://lichess.org/training/03Lh3
+[Ne2+ Kf1 Nxd4 Rxb3 Nxb3] fullFirstMoveMatch
+1: {Nb1}{Nd1}{Na2}{Ne2+}{Na4}{Ne4}{Nb5}
+2: {Ne2+}
+3: {Ne2+ Kf1}{Ne2+ Kh1}{Ne2+ Kxf2}{Ne2+ Kxg2}{Ne2+ Kh2}
+4: {Ne2+ Kf1 Nxd4}{Ne2+ Kh1 Nxd4}{Ne2+ Kxf2 Nxd4}{Ne2+ Kxg2 Nxd4}{Ne2+ Kh2 Nxd4}
+8774 https://lichess.org/training/05c89
+[Ne3+ Kh3 Nxg4 Rxf6 Nxf6] fullFirstMoveMatch
+1: {Nc3}{Ne3+}{Nf4+}{Nb6}{Nc7}{Ne7}
+2: {Ne3+}
+3: {Ne3+ Kg1}{Ne3+ Kh1}{Ne3+ Kxf2+}{Ne3+ Kxh2}{Ne3+ Kf3+}{Ne3+ Kxg3}{Ne3+ Kh3}
+4: {Ne3+ Kg1 Nxg4}{Ne3+ Kh1 Nxg4}{Ne3+ Kxf2+ Nxg4+}{Ne3+ Kxh2 Nxg4+}{Ne3+ Kf3+ Nxg4+}{Ne3+ Kxg3 Nxg4}{Ne3+ Kh3 Nxg4}
+10140 https://lichess.org/training/06Uu3
+[Ng5+ Kg8 Nxe6 Rxc7 Nxc7] fullFirstMoveMatch
+1: {Ne1}{Nd2}{Nh2}{Nd4}{Nh4}{Ng5+}
+2: {Ng5+}
+3: {Ng5+ Kxf6+}{Ng5+ Kxg6}{Ng5+ Kxe7+}{Ng5+ Kxg7}{Ng5+ Kxe8}{Ng5+ Kf8}{Ng5+ Kg8}
+4: {Ng5+ Kxf6+ Nxe6+}{Ng5+ Kxg6 Nxe6}{Ng5+ Kxe7+ Nxe6+}{Ng5+ Kxg7 Nxe6+}{Ng5+ Kxe8 Nxe6}{Ng5+ Kf8 Nxe6+}{Ng5+ Kg8 Nxe6}
+10142 https://lichess.org/training/06V1F
+[Ne2+ Kf2 Nxg3 Bxh7+ Kxh7] fullFirstMoveMatch
+1: {Nc2}{Ne2+}{Nb3}{Nf3+}{Nb5}{Nf5}{Ne6}
+2: {Ne2+}
+3: {Ne2+ Kxf1}{Ne2+ Kh1}{Ne2+ Kf2}{Ne2+ Kxg2}{Ne2+ Kh2}
+4: {Ne2+ Kxf1 Nxg3+}{Ne2+ Kh1 Nxg3+}{Ne2+ Kf2 Nxg3}{Ne2+ Kxg2 Nxg3}{Ne2+ Kh2 Nxg3}
+15052 https://lichess.org/training/09amb
+[Nf3+ Kh1 Nxh4 Nxc3 Nxc3] fullFirstMoveMatch
+1: {Ne3}{Nb4}{Nf4}{Nb6}{Nf6}{Ne7}{Nf3+}{Nc4}{Ng4}{Nc6}{Ng6}
+2: {Nf3+}
+3: {Nf3+ Kxf1}{Nf3+ Kh1}{Nf3+ Kxf2}{Nf3+ Kxg2+}
+4: {Nf3+ Kxf1 Nxh4}{Nf3+ Kh1 Nxh4}{Nf3+ Kxf2 Nxh4}{Nf3+ Kxg2+ Nxh4+}

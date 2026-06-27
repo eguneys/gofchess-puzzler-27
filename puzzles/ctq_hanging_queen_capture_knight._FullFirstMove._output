@@ -1,0 +1,45 @@
+0.01 ms per puzzle, took 35590ms
+FirstM:0 N:6000533 F:0 T:0
+FFM:5035  FF:8429  FullT: 384
+Coverage:0.23% Accuracy:0.00%
+Total:6014381                                               
+122 https://lichess.org/training/004sg
+[Nxd2 c6 d5 g6 Bd6+] fullFirstMoveMatch
+1: {}
+2: {Nxd2}
+218 https://lichess.org/training/009FS
+[Nxc4 Nxd8 Rxe1] fullFirstMoveMatch
+1: {}
+2: {Nxc4}
+4332 https://lichess.org/training/02nXf
+[Nxb6 Rxc1+ Bxc1] fullFirstMoveMatch
+1: {}
+2: {Nxb6}
+4912 https://lichess.org/training/03AGC
+[Nxc7 Rxh4 gxh4] fullFirstMoveMatch
+1: {}
+2: {Nxc7}
+5178 https://lichess.org/training/03KFS
+[Nxh4 Nxf4 exf4] fullFirstMoveMatch
+1: {}
+2: {Nxh4}
+7582 https://lichess.org/training/04rLt
+[Nxf5 Bxb2 Nxd6+] fullFirstMoveMatch
+1: {}
+2: {Nxf5}
+10310 https://lichess.org/training/06bnw
+[Nxd3 bxa7 Qa4 Ra1 Qxa1 Rxa1 Kd7] fullFirstMoveMatch
+1: {}
+2: {Nxd3}
+11557 https://lichess.org/training/07PSG
+[Nxh5 Be6# Qd7 Nxe7+ Rxe7] fullFirstMoveMatch
+1: {}
+2: {Nxh5}
+13919 https://lichess.org/training/08ups
+[Nxa7 cxd6 Nxb5] fullFirstMoveMatch
+1: {}
+2: {Nxa7}
+21622 https://lichess.org/training/0Dnr5
+[Nxf3 cxd5 Nxh4] fullFirstMoveMatch
+1: {}
+2: {Nxf3}

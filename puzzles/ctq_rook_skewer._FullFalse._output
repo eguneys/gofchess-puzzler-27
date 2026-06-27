@@ -1,0 +1,65 @@
+0.01 ms per puzzle, took 38003ms
+FirstM:862029 N:3909495 F:1005069 T:213681
+FFM:909  FF:18920  FullT: 4278
+Coverage:35.00% Accuracy:51.11%
+Total:6014381                            
+314 https://lichess.org/training/00CtS
+[Qh8+ Kg6 Qh6#] fullFalseMatch
+1: {Rh7+}
+2: {Rh7+}
+3: {Rh7+ Kf6}{Rh7+ Kg6}{Rh7+ Kxf7+}{Rh7+ Kxh7}{Rh7+ Kf8+}{Rh7+ Kg8+}
+4: {Rh7+ Kf6 Rxf7+}{Rh7+ Kg6 Rxf7}{Rh7+ Kf8+ Rxf7+}{Rh7+ Kg8+ Rxf7+}
+646 https://lichess.org/training/00PHg
+[Re8+ Kxf4 a8=Q Qxa8+ Rxa8] fullFalseMatch
+1: {Re4+}{Rf5+}{Re8+}
+2: {Rf5+}
+3: {Rf5+ Kd4}{Rf5+ Ke4}{Rf5+ Kd5+}{Rf5+ Kxf5}{Rf5+ Kd6}{Rf5+ Ke6}
+4: {Rf5+ Kd4 Rxa5}{Rf5+ Ke4 Rxa5}{Rf5+ Kd6 Rxa5}{Rf5+ Ke6 Rxa5}
+760 https://lichess.org/training/00Ty2
+[Rg2+ Kd3 Rd8+ Kc4 Rxc2] fullFalseMatch
+1: {Rg2+}
+2: {Rg2+}
+3: {Rg2+ Kd1}{Rg2+ Ke1}{Rg2+ Kf1}{Rg2+ Kd2+}{Rg2+ Kd3}{Rg2+ Ke3}{Rg2+ Kf3}
+4: {Rg2+ Kd1 Rxc2}{Rg2+ Ke1 Rxc2}{Rg2+ Kf1 Rxc2}{Rg2+ Kd3 Rxc2}{Rg2+ Ke3 Rxc2}{Rg2+ Kf3 Rxc2}
+921 https://lichess.org/training/00ZsF
+[Bxh3 Qd7 Rf5] fullFalseMatch
+1: {Rf8+}
+2: {Rf8+}
+3: {Rf8+ Kd7}{Rf8+ Ke7}{Rf8+ Kxd8+}{Rf8+ Kxf8}
+4: {Rf8+ Kd7 Rxd8+}{Rf8+ Ke7 Rxd8}
+1007 https://lichess.org/training/00d9q
+[Re7+ Kxe7 Qxc7+] fullFalseMatch
+1: {Re7+}
+2: {Re7+}
+3: {Re7+ Kxc6}{Re7+ Kxd6}{Re7+ Kxc7+}{Re7+ Kxe7}{Re7+ Kc8}{Re7+ Kd8}
+4: {Re7+ Kxc6 Rxc7#}{Re7+ Kxd6 Rxc7}{Re7+ Kc8 Rxc7+}{Re7+ Kd8 Rxc7}
+1177 https://lichess.org/training/00k5U
+[Qf7+ Qf3 Rf6 Qxf6 Qxf6+] fullFalseMatch
+1: {Re2+}{Rf6+}
+2: {Re2+}
+3: {Re2+ Kf1}{Re2+ Kg1}{Re2+ Kxe2}{Re2+ Kxg2+}{Re2+ Kf3}{Re2+ Kg3+}
+4: {Re2+ Kf1 Rxg2}{Re2+ Kg1 Rxg2+}{Re2+ Kf3 Rxg2}{Re2+ Kg3+ Rxg2+}
+1519 https://lichess.org/training/00ysx
+[f3+ Kf1 g3 Bxh3 Rxh3] fullFalseMatch
+1: {Rxh2+}{Rg3+}
+2: {Rxh2+}
+3: {Rxh2+ Kf1}{Rxh2+ Kg1}{Rxh2+ Kf2+}{Rxh2+ Kxh2+}{Rxh2+ Kf3+}{Rxh2+ Kg3+}
+4: {Rxh2+ Kf1 Rxc2}{Rxh2+ Kg1 Rxc2}{Rxh2+ Kf3+ Rxc2+}{Rxh2+ Kg3+ Rxc2+}
+1737 https://lichess.org/training/017qg
+[Rh1+ Kxh1 a1=Q+ Kg2 Qg1+] fullFalseMatch
+1: {Rh1+}
+2: {Rh1+}
+3: {Rh1+ Kxh1}{Rh1+ Kg2}{Rh1+ Kg3}{Rh1+ Kh3+}
+4: {Rh1+ Kg2 Rxh8}{Rh1+ Kg3 Rxh8}
+1784 https://lichess.org/training/01A6Y
+[Qg7#] fullFalseMatch
+1: {Rh6+}{Rg7+}
+2: {Rg7+}
+3: {Rg7+ Kxf5}{Rg7+ Kxg5+}{Rg7+ Kh5+}{Rg7+ Kf6}{Rg7+ Kh6+}{Rg7+ Kxg7+}
+4: {Rg7+ Kxf5 Rxg5+}{Rg7+ Kh5+ Rxg5+}{Rg7+ Kf6 Rxg5+}{Rg7+ Kh6+ Rxg5+}
+1792 https://lichess.org/training/01AU0
+[Qd1+ Kc4 Rd6] fullFalseMatch
+1: {Re3+}{Rd6+}
+2: {Re3+}
+3: {Re3+ Kc2}{Re3+ Kd2}{Re3+ Kxc3+}{Re3+ Kxe3}{Re3+ Kc4}{Re3+ Kd4}
+4: {Re3+ Kc2 Rxc3+}{Re3+ Kd2 Rxc3}{Re3+ Kc4 Rxc3+}{Re3+ Kd4 Rxc3}
