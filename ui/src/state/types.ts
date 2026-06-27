@@ -163,3 +163,43 @@ addStyle(captureTheQueen, {
     slice: 'capture_the_queen_immediate_hang_capture_knight_true.csv'
 })
 
+
+
+addStyle(captureTheQueen, {
+    label: "Can't Capture The Queen (Knight Fork)",
+    description: 'Knight lands a fork, then rook checks the king',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_advanced_knight_cant_capture_full_true.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: "Can't Capture The Queen (Knight Fork) II",
+    description: 'Knight lands a fork, then rook checks the king (longer version)',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_advanced_knight_cant_capture_full_first_move.csv'
+})
+
+
+addStyle(captureTheQueen, {
+    label: "Knight Fork CTQ and defends own Queen",
+    description: 'Knight lands a fork, captures the queen, defends the queen I',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_adv_knight_capture_continue_full_true.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: "Knight Fork CTQ and defends own Queen II",
+    description: 'Knight lands a fork, captures the queen, defends the queen II',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_adv_knight_capture_continue_full_first_move.csv'
+})
+
+addStyle(captureTheQueen, {
+    label: "Knight Fork CTQ and defends own Queen III",
+    description: 'Knight lands a fork, captures the queen, defends the queen III',
+    goal: captureTheQueen,
+    slice: 'capture_the_queen_adv_knight_capture_continue_full_false.csv'
+})
+
+
+

@@ -1,0 +1,105 @@
+0.00 ms per puzzle, took 29873ms
+FirstM:1246 N:5985041 F:11251 T:6
+FFM:457  FF:598  FullT: 15782
+Coverage:0.49% Accuracy:4.27%
+Total:6014381                                        
+19534 https://lichess.org/training/0CPfF
+[Bxh2+ Kxh2 Qxe6 Rxd8+ Rxd8] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxh2+}
+4: {Bxh2+}
+5: {Bxh2+}
+6: {Bxh2+ Kxh2}{Bxh2+ Nxh2}
+7: {Bxh2+ Kxh2}{Bxh2+ Nxh2}
+8: {Bxh2+ Kxh2 Qxe6}{Bxh2+ Nxh2 Qxe6}
+22756 https://lichess.org/training/0EVRn
+[Bxe5+ Nxe5 Qxa2 Nxd3+ Kb1] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxe5+}
+4: {Bxe5+}
+5: {Bxe5+}
+6: {Bxe5+ Bxe5}{Bxe5+ Nxe5}
+7: {Bxe5+ Bxe5}{Bxe5+ Nxe5}
+8: {Bxe5+ Bxe5 Qxa2}{Bxe5+ Nxe5 Qxa2}
+30734 https://lichess.org/training/0Jj7Z
+[Bxh2+ Kxh2 Qxd1 Rxe7+ Kf8] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxh2+}{Bxb4}
+4: {Bxh2+}{Bxb4}
+5: {Bxh2+}
+6: {Bxh2+ Kxh2}{Bxh2+ Nxh2}
+7: {Bxh2+ Kxh2}{Bxh2+ Nxh2}
+8: {Bxh2+ Kxh2 Qxd1}{Bxh2+ Nxh2 Qxd1+}
+33919 https://lichess.org/training/0Ll81
+[Bxh7+ Nxh7 Qxc3 Nf3+ gxf3] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxa6}{Bxh7+}
+4: {Bxa6}{Bxh7+}
+5: {Bxh7+}
+6: {Bxh7+ Nxh7}{Bxh7+ Kxh7}
+7: {Bxh7+ Nxh7}{Bxh7+ Kxh7}
+8: {Bxh7+ Nxh7 Qxc3}{Bxh7+ Kxh7 Qxc3}
+82953 https://lichess.org/training/0rEBD
+[Bxg2+ Kxg2 Qxd4 Rf7+ Kh6] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxg2+}{Bxb3}
+4: {Bxg2+}{Bxb3}
+5: {Bxg2+}
+6: {Bxg2+ Kxg2}
+7: {Bxg2+ Kxg2}
+8: {Bxg2+ Kxg2 Qxd4}
+86180 https://lichess.org/training/0tIKY
+[Bxf7+ Rxf7 Qxd3 Rxf1+ Qxf1] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxf7+}
+4: {Bxf7+}
+5: {Bxf7+}
+6: {Bxf7+ Rxf7}{Bxf7+ Kxf7+}
+7: {Bxf7+ Rxf7}{Bxf7+ Kxf7+}
+8: {Bxf7+ Rxf7 Qxd3}{Bxf7+ Kxf7+ Qxd3+}
+91641 https://lichess.org/training/0wjYu
+[Bxf2+ Kxf2 Qxd3 Nf6+ gxf6] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxf2+}
+4: {Bxf2+}
+5: {Bxf2+}
+6: {Bxf2+ Kxf2}{Bxf2+ Nxf2}
+7: {Bxf2+ Kxf2}
+8: {Bxf2+ Kxf2 Qxd3}
+110443 https://lichess.org/training/18YiW
+[Bxh2+ Kxh2 Qxd4 Re1+ Kf8] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxh2+}
+4: {Bxh2+}
+5: {Bxh2+}
+6: {Bxh2+ Kxh2}
+7: {Bxh2+ Kxh2}
+8: {Bxh2+ Kxh2 Qxd4}
+115042 https://lichess.org/training/1BTkn
+[Bxf2+ Kxf2 Qxd3 Rd1 Qc2+] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxb2}{Bxf2+}{Bxb6}
+4: {Bxb2}{Bxf2+}{Bxb6}
+5: {Bxf2+}
+6: {Bxf2+ Kxf2}
+7: {Bxf2+ Kxf2}
+8: {Bxf2+ Kxf2 Qxd3}
+122326 https://lichess.org/training/1G5wv
+[Bxg7+ Kxg7 Qxc5 Rb1+ Bf1] fullFirstMoveMatch
+1: {}
+2: {}
+3: {Bxg7+}
+4: {Bxg7+}
+5: {Bxg7+}
+6: {Bxg7+ Kxg7}
+7: {Bxg7+ Kxg7}
+8: {Bxg7+ Kxg7 Qxc5}

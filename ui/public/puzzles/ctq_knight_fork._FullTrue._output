@@ -1,124 +1,65 @@
-0.01 ms per puzzle, took 85423ms
-FirstM:440703 N:5449696 F:0 FF:0 T:54288 FullT: 69695
-Coverage:9.39% Accuracy:87.66%
-Total:6014382                                                 
-6 https://lichess.org/training/000Pw
+0.01 ms per puzzle, took 43214ms
+FirstM:407011 N:3229678 F:2149337 T:54288
+FFM:5051  FF:99321  FullT: 69695
+Coverage:46.30% Accuracy:16.57%
+Total:6014381                           
+5 https://lichess.org/training/000Pw
 [Ne2+ Kf1 Nxc3] fullTrueMatch
 1: {Nc2}{Ne2+}{Nb3}{Nf3+}{Nb5}{Nf5}{Nc6}
 2: {Ne2+}{Nf3+}
 3: {Ne2+ Kf1}{Ne2+ Kh1}{Ne2+ Kxf2}{Ne2+ Kg2}{Ne2+ Kxh2}{Nf3+ Kf1}{Nf3+ Kh1}{Nf3+ Kxf2}{Nf3+ Kg2}
 4: {Ne2+ Kf1 Nxc3}{Ne2+ Kh1 Nxc3}{Ne2+ Kxf2 Nxc3}{Ne2+ Kg2 Nxc3}{Ne2+ Kxh2 Nxc3}{Nf3+ Kf1 Nxe5}{Nf3+ Kh1 Nxe5}{Nf3+ Kxf2 Nxe5}{Nf3+ Kg2 Nxe5}
-81 https://lichess.org/training/003S3
+80 https://lichess.org/training/003S3
 [Ne6+ Kg8 Nxc7] fullTrueMatch
 1: {Nh3}{Ne4}{Ne6+}{Nh7+}{Na5}{Nd6}{Nd8}
 2: {Ne6+}
 3: {Ne6+ Kxe7}{Ne6+ Kxf7+}{Ne6+ Ke8}{Ne6+ Kg8}
 4: {Ne6+ Kxe7 Nxc7}{Ne6+ Kxf7+ Nxc7+}{Ne6+ Ke8 Nxc7+}{Ne6+ Kg8 Nxc7}
-96 https://lichess.org/training/003r5
+95 https://lichess.org/training/003r5
 [Nd3+ Kg1 Nxf4] fullTrueMatch
 1: {Nc2}{Nd3+}{Nd5}{Na6}{Nc6}
 2: {Nd3+}
 3: {Nd3+ Kxf1}{Nd3+ Kg1}{Nd3+ Ke2}{Nd3+ Kxg2}{Nd3+ Ke3}{Nd3+ Kxf3}{Nd3+ Kg3}
 4: {Nd3+ Kxf1 Nxf4}{Nd3+ Kg1 Nxf4}{Nd3+ Ke2 Nxf4+}{Nd3+ Kxg2 Nxf4+}{Nd3+ Ke3 Nxf4}{Nd3+ Kxf3 Nxf4}{Nd3+ Kg3 Nxf4}
-337 https://lichess.org/training/00Dt6
+336 https://lichess.org/training/00Dt6
 [Nh4+ Kf1 Nxf3] fullTrueMatch
 1: {Ne3+}{Nd4}{Nh4+}{Nd6}{Nh6}{Ne7}{Ng7}
 2: {Nh4+}
 3: {Nh4+ Kf1}{Nh4+ Kg1}{Nh4+ Kh1}{Nh4+ Kxf2}{Nh4+ Kh2}{Nh4+ Kxg3+}{Nh4+ Kxh3}
 4: {Nh4+ Kf1 Nxf3}{Nh4+ Kg1 Nxf3+}{Nh4+ Kh1 Nxf3}{Nh4+ Kxf2 Nxf3}{Nh4+ Kh2 Nxf3+}{Nh4+ Kxg3+ Nxf3+}{Nh4+ Kxh3 Nxf3}
-426 https://lichess.org/training/00HLP
+425 https://lichess.org/training/00HLP
 [Ne2+ Kh1 Nxf4] fullTrueMatch
 1: {Nc2}{Ne2+}{Nb3}{Nf3+}{Nf5}{Nc6}{Nc5}{Nb6}{Nf6}{Nb8}
 2: {Ne2+}
 3: {Ne2+ Kxf1}{Ne2+ Kh1}{Ne2+ Kxf2}{Ne2+ Kxg2}{Ne2+ Kxh2}
 4: {Ne2+ Kxf1 Nxf4}{Ne2+ Kh1 Nxf4}{Ne2+ Kxf2 Nxf4}{Ne2+ Kxg2 Nxf4+}{Ne2+ Kxh2 Nxf4}
-585 https://lichess.org/training/00MyT
+584 https://lichess.org/training/00MyT
 [Nd3+ Kc2 Nxc5] fullTrueMatch
 1: {Nd3+}{Nf3}{Nc4}{Ng4}{Nc6}{Nf5}{Nc6}{Nc8}{Ng8}
 2: {Nd3+}
 3: {Nd3+ Kb1}{Nd3+ Kd1}{Nd3+ Kc2}{Nd3+ Kd2}
 4: {Nd3+ Kb1 Nxc5}{Nd3+ Kd1 Nxc5}{Nd3+ Kc2 Nxc5}{Nd3+ Kd2 Nxc5}
-745 https://lichess.org/training/00TOX
+744 https://lichess.org/training/00TOX
 [Nd5+ Kb8 Nxf6] fullTrueMatch
 1: {Nb1}{Nd1}{Ne2}{Na4}{Nb5+}{Nd5+}
 2: {Nd5+}
 3: {Nd5+ Kxc6}{Nd5+ Kd6}{Nd5+ Kb7}{Nd5+ Kd7}{Nd5+ Kb8}{Nd5+ Kc8}{Nd5+ Kd8}
 4: {Nd5+ Kxc6 Nxf6+}{Nd5+ Kd6 Nxf6+}{Nd5+ Kb7 Nxf6}{Nd5+ Kd7 Nxf6+}{Nd5+ Kb8 Nxf6}{Nd5+ Kc8 Nxf6}{Nd5+ Kd8 Nxf6+}
-754 https://lichess.org/training/00Tdk
+753 https://lichess.org/training/00Tdk
 [Nf3+ Kh1 Nxd2] fullTrueMatch
 1: {Nd3}{Nf3+}{Nc4}{Ng4}{Nd7}{Ne4}{Ng4}{Nd5}{Nh5}{Nd7}{Ne8}{Ng8}
 2: {Nf3+}
 3: {Nf3+ Kxf1}{Nf3+ Kh1}{Nf3+ Kxf2}{Nf3+ Kxg2+}
 4: {Nf3+ Kxf1 Nxd2+}{Nf3+ Kh1 Nxd2}{Nf3+ Kxf2 Nxd2}{Nf3+ Kxg2+ Nxd2+}
-815 https://lichess.org/training/00Vt0
+814 https://lichess.org/training/00Vt0
 [Nd7+ Ka8 Nxe5] fullTrueMatch
 1: {Nb3}{Nd3}{Na4}{Na6+}{Nd7+}
 2: {Nd7+}
 3: {Nd7+ Kxa7}{Nd7+ Kxb7}{Nd7+ Kc7+}{Nd7+ Ka8}{Nd7+ Kc8+}
 4: {Nd7+ Kxa7 Nxe5}{Nd7+ Kxb7 Nxe5}{Nd7+ Kc7+ Nxe5+}{Nd7+ Ka8 Nxe5}{Nd7+ Kc8+ Nxe5+}
-834 https://lichess.org/training/00WiX
+833 https://lichess.org/training/00WiX
 [Nf3+ Kf1 Nxe5] fullTrueMatch
 1: {Nc2}{Ne2+}{Nb3}{Nf3+}{Nb5}{Nf5}{Nc6}
 2: {Nf3+}
 3: {Nf3+ Kf1}{Nf3+ Kh1}{Nf3+ Kxf2}{Nf3+ Kg2}
 4: {Nf3+ Kf1 Nxe5}{Nf3+ Kh1 Nxe5}{Nf3+ Kxf2 Nxe5}{Nf3+ Kg2 Nxe5}
-857 https://lichess.org/training/00XL2
-[Nf3+ Kh1 Nxd4] fullTrueMatch
-1: {Nd3}{Nf3+}{Ng4}{Nc6}{Nd7}{Nf7}
-2: {Nf3+}
-3: {Nf3+ Kxf1}{Nf3+ Kh1}{Nf3+ Kxf2}{Nf3+ Kxg2+}
-4: {Nf3+ Kxf1 Nxd4}{Nf3+ Kh1 Nxd4}{Nf3+ Kxf2 Nxd4}{Nf3+ Kxg2+ Nxd4+}
-930 https://lichess.org/training/00aEe
-[Ne2+ Kd2 Nxc3] fullTrueMatch
-1: {Ne2+}{Nb3+}{Nf3}{Nb5}{Nf5}{Nc6}{Ne6}{Na6}{Nc6}{Nd7}
-2: {Ne2+}
-3: {Ne2+ Kb1+}{Ne2+ Kxd1}{Ne2+ Kxb2+}{Ne2+ Kxc2}{Ne2+ Kd2}
-4: {Ne2+ Kb1+ Nxc3+}{Ne2+ Kxd1 Nxc3+}{Ne2+ Kxb2+ Nxc3+}{Ne2+ Kxc2 Nxc3}{Ne2+ Kd2 Nxc3}
-966 https://lichess.org/training/00bTs
-[Nd2+ Ka1 Nxf3] fullTrueMatch
-1: {Nd2+}{Nf2}{Nc3+}{Ng3}{Nc5}{Ng5}{Nd6}{Nf6}
-2: {Nd2+}
-3: {Nd2+ Ka1}{Nd2+ Kc1}{Nd2+ Kxa2}{Nd2+ Kxb2+}{Nd2+ Kxc2+}
-4: {Nd2+ Ka1 Nxf3}{Nd2+ Kc1 Nxf3}{Nd2+ Kxa2 Nxf3}{Nd2+ Kxb2+ Nxf3+}{Nd2+ Kxc2+ Nxf3+}
-977 https://lichess.org/training/00bns
-[Ne7+ Kf8 Nxg6+] fullTrueMatch
-1: {Ng3}{Nd4}{Nh4}{Nd6}{Nh6+}{Ne7+}
-2: {Ne7+}
-3: {Ne7+ Kxf7+}{Ne7+ Kxg7}{Ne7+ Kxh7}{Ne7+ Kf8}{Ne7+ Kh8}
-4: {Ne7+ Kxf7+ Nxg6+}{Ne7+ Kxg7 Nxg6}{Ne7+ Kxh7 Nxg6}{Ne7+ Kf8 Nxg6+}{Ne7+ Kh8 Nxg6+}
-1013 https://lichess.org/training/00dTO
-[Ne6+ Kg8 Nxf8] fullTrueMatch
-1: {Nf1}{Nc2}{Ng2}{Nd5}{Nf5+}{Ne2}{Ng2}{Nd5}{Nh5+}{Ne6+}
-2: {Ne6+}
-3: {Ne6+ Kf6}{Ne6+ Kxg6}{Ne6+ Kh6}{Ne6+ Kxf7}{Ne6+ Kh7}{Ne6+ Kg8}{Ne6+ Kh8}
-4: {Ne6+ Kf6 Nxf8}{Ne6+ Kxg6 Nxf8+}{Ne6+ Kh6 Nxf8}{Ne6+ Kxf7 Nxf8}{Ne6+ Kh7 Nxf8+}{Ne6+ Kg8 Nxf8}{Ne6+ Kh8 Nxf8}
-1165 https://lichess.org/training/00jPH
-[Ne2+ Kh1 Nxc3] fullTrueMatch
-1: {Nc2}{Ne2+}{Nb3}{Nf3+}{Nc6}
-2: {Ne2+}
-3: {Ne2+ Kxf1}{Ne2+ Kh1}{Ne2+ Kxf2}{Ne2+ Kxg2+}{Ne2+ Kxh2}
-4: {Ne2+ Kxf1 Nxc3}{Ne2+ Kh1 Nxc3}{Ne2+ Kxf2 Nxc3}{Ne2+ Kxg2+ Nxc3+}{Ne2+ Kxh2 Nxc3}
-1173 https://lichess.org/training/00jhH
-[Ng4+ Kg1 Nxf2] fullTrueMatch
-1: {Ng4+}{Nd5}{Nh5}{Nd7}{Nh7}{Ne8}{Ng8}
-2: {Ng4+}
-3: {Ng4+ Kg1}{Ng4+ Kh1}{Ng4+ Kxg2}{Ng4+ Kxg3}{Ng4+ Kh3}
-4: {Ng4+ Kg1 Nxf2}{Ng4+ Kh1 Nxf2+}{Ng4+ Kxg2 Nxf2}{Ng4+ Kxg3 Nxf2}{Ng4+ Kh3 Nxf2+}
-1333 https://lichess.org/training/00qqD
-[Ng5+ Kg8 Nxh3] fullTrueMatch
-1: {Nd2}{Nd4}{Nh4}{Ng5+}
-2: {Ng5+}
-3: {Ng5+ Kf6}{Ng5+ Kg6}{Ng5+ Ke7}{Ng5+ Kxg7}{Ng5+ Ke8}{Ng5+ Kf8}{Ng5+ Kg8}
-4: {Ng5+ Kf6 Nxh3}{Ng5+ Kg6 Nxh3}{Ng5+ Ke7 Nxh3}{Ng5+ Kxg7 Nxh3}{Ng5+ Ke8 Nxh3}{Ng5+ Kf8 Nxh3}{Ng5+ Kg8 Nxh3}
-1396 https://lichess.org/training/00tB9
-[Nb3+ Kb1 Nxd2+] fullTrueMatch
-1: {Nb3+}{Nd3+}{Na4}{Ne6}{Nd7}
-2: {Nb3+}
-3: {Nb3+ Kb1}{Nb3+ Kxd1}{Nb3+ Kxb2}{Nb3+ Kxc2+}
-4: {Nb3+ Kb1 Nxd2+}{Nb3+ Kxd1 Nxd2}{Nb3+ Kxb2 Nxd2}{Nb3+ Kxc2+ Nxd2+}
-1574 https://lichess.org/training/010wy
-[Nd5+ Kd8 Nxe3] fullTrueMatch
-1: {Nb1}{Nd1}{Ne2}{Na4}{Nb5}{Nd5+}
-2: {Nd5+}
-3: {Nd5+ Kxd6}{Nd5+ Kxe6+}{Nd5+ Kd7+}{Nd5+ Kf7+}{Nd5+ Kd8}{Nd5+ Ke8}{Nd5+ Kf8}
-4: {Nd5+ Kxd6 Nxe3}{Nd5+ Kxe6+ Nxe3+}{Nd5+ Kd7+ Nxe3+}{Nd5+ Kf7+ Nxe3+}{Nd5+ Kd8 Nxe3}{Nd5+ Ke8 Nxe3}{Nd5+ Kf8 Nxe3}

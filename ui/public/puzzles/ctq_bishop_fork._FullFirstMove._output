@@ -1,0 +1,65 @@
+0.01 ms per puzzle, took 35917ms
+FirstM:289384 N:4340836 F:1365884 T:13327
+FFM:19  FF:4786  FullT: 145
+Coverage:27.83% Accuracy:18.09%
+Total:6014381                                
+255430 https://lichess.org/training/2dCSc
+[Bxe6+ Qxe6+ fxe6 Bb5+ Rc6 Bxc6+ bxc6] fullFirstMoveMatch
+1: {Bxe6+}
+2: {Bxe6+}
+3: {Bxe6+ Qxe6+}
+4: {Bxe6+ Qxe6+ fxe6}
+624245 https://lichess.org/training/6Qg3M
+[Bxg5+ Qxg5 hxg5 Nxd7 Nxd7] fullFirstMoveMatch
+1: {Bxg2}{Bxg5+}
+2: {Bxg5+}
+3: {Bxg5+ Qxg5}
+4: {Bxg5+ Qxg5 hxg5}
+948009 https://lichess.org/training/9lng7
+[Bxe6+ Qxe6 fxe6 Bd4+ Kh1] fullFirstMoveMatch
+1: {Bxe6+}
+2: {Bxe6+}
+3: {Bxe6+ Qxe6}
+4: {Bxe6+ Qxe6 fxe6}
+1181412 https://lichess.org/training/CB5oc
+[Bxd5+ Qxd5 cxd5 Rxc2 Rxc2] fullFirstMoveMatch
+1: {Bxb6}{Bxd5+}
+2: {Bxd5+}
+3: {Bxd5+ Qxd5}
+4: {Bxd5+ Qxd5 cxd5}
+1191839 https://lichess.org/training/CHl1l
+[Bxd4+ Qxd4 cxd4 Rxc2 Bxc2] fullFirstMoveMatch
+1: {Bxg6}{Bxd4+}
+2: {Bxd4+}
+3: {Bxd4+ Qxd4}
+4: {Bxd4+ Qxd4 cxd4}
+1265566 https://lichess.org/training/D31N0
+[Bxb5+ Qxb5 axb5 bxa8=R Rxa8] fullFirstMoveMatch
+1: {Bxb5+}
+2: {Bxb5+}
+3: {Bxb5+ Qxb5}
+4: {Bxb5+ Qxb5 axb5}
+2412285 https://lichess.org/training/OsO5L
+[Bxb5+ Qxb5+ axb5 Rxe7+ Kxe7] fullFirstMoveMatch
+1: {Bxb5+}
+2: {Bxb5+}
+3: {Bxb5+ Qxb5+}
+4: {Bxb5+ Qxb5+ axb5}
+2574740 https://lichess.org/training/QYJTs
+[Bxe3+ Qxe3 dxe3 Rf7 Qxa3] fullFirstMoveMatch
+1: {Bxe3+}
+2: {Bxe3+}
+3: {Bxe3+ Qxe3}
+4: {Bxe3+ Qxe3 dxe3}
+2616968 https://lichess.org/training/QzM8q
+[Bxf4+ Qxf4 gxf4+ Kxf4 Rxh8] fullFirstMoveMatch
+1: {Bxf4+}
+2: {Bxf4+}
+3: {Bxf4+ Qxf4}
+4: {Bxf4+ Qxf4 gxf4+}
+3611959 https://lichess.org/training/bG4b5
+[Bxc5+ Qxc5 bxc5 Ng3+ Kg2 h1=R Rxh1] fullFirstMoveMatch
+1: {Bxc5+}
+2: {Bxc5+}
+3: {Bxc5+ Qxc5}
+4: {Bxc5+ Qxc5 bxc5}

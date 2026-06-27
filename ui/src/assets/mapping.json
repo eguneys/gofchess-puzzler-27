@@ -10,17 +10,23 @@
     "capture_the_queen_rook_skewer.csv": "ctq_rook_skewer.FullTrue.dbsrc.csv",
     "capture_the_queen_queen_skewer.csv": "ctq_queen_skewer.FullTrue.dbsrc.csv",
 
-
-
     "capture_the_queen_immediate_hang_full_true.csv": "ctq_hanging_queen.FullTrue.dbsrc.csv",
     "capture_the_queen_immediate_hang_true.csv": "ctq_hanging_queen.FirstMove.dbsrc.csv",
-
     "capture_the_queen_immediate_hang_capture_rook_full_true.csv": "ctq_hanging_queen_capture_rook.FullTrue.dbsrc.csv",
     "capture_the_queen_immediate_hang_capture_rook_true.csv": "ctq_hanging_queen_capture_rook.FirstMove.dbsrc.csv",
-
     "capture_the_queen_immediate_hang_capture_bishop_full_true.csv": "ctq_hanging_queen_capture_bishop.FullTrue.dbsrc.csv",
     "capture_the_queen_immediate_hang_capture_bishop_true.csv": "ctq_hanging_queen_capture_bishop.FirstMove.dbsrc.csv",
-
     "capture_the_queen_immediate_hang_capture_knight_full_true.csv": "ctq_hanging_queen_capture_knight.FullTrue.dbsrc.csv",
-    "capture_the_queen_immediate_hang_capture_knight_true.csv": "ctq_hanging_queen_capture_knight.FirstMove.dbsrc.csv"
+    "capture_the_queen_immediate_hang_capture_knight_true.csv": "ctq_hanging_queen_capture_knight.FirstMove.dbsrc.csv",
+
+
+    "capture_the_queen_adv_knight_capture_continue_full_first_move.csv": "ctq_adv_knight_fork_continue.FullFirstMove.dbsrc.csv",
+    "capture_the_queen_adv_knight_capture_continue_full_false.csv": "ctq_adv_knight_fork_continue.FullFalse.dbsrc.csv",
+    "capture_the_queen_adv_knight_capture_continue_full_true.csv": "ctq_adv_knight_fork_continue.FullTrue.dbsrc.csv",
+
+    "capture_the_queen_advanced_knight_cant_capture_full_first_move.csv": "ctq_advanced_knight_cant_capture_after_fork.FullFirstMove.dbsrc.csv",
+    "capture_the_queen_advanced_knight_cant_capture_full_true.csv": "ctq_advanced_knight_cant_capture_after_fork.FullTrue.dbsrc.csv"
+
+
+
 }

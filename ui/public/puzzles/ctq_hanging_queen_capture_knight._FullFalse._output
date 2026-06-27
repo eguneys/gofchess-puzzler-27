@@ -1,0 +1,45 @@
+0.01 ms per puzzle, took 35591ms
+FirstM:0 N:6000533 F:0 T:0
+FFM:5035  FF:8429  FullT: 384
+Coverage:0.23% Accuracy:0.00%
+Total:6014381                                               
+276 https://lichess.org/training/00BKa
+[Rxc8+ Bxc8 Nxa2 Rxd1+ Kxd1] fullFalseMatch
+1: {}
+2: {Nxa2}
+1192 https://lichess.org/training/00km1
+[Rxf8+ Kxf8 Nxa4] fullFalseMatch
+1: {}
+2: {Nxa4}
+1514 https://lichess.org/training/00yfI
+[Qxf1+ Bxf1 Nxh7] fullFalseMatch
+1: {}
+2: {Nxh7+}
+3094 https://lichess.org/training/0213A
+[Ne2+] fullFalseMatch
+1: {}
+2: {Nxf5}
+4057 https://lichess.org/training/02cM5
+[Bd4+ Qf2 Bxf2+ Rxf2 Kxf7] fullFalseMatch
+1: {}
+2: {Nxh4}
+4529 https://lichess.org/training/02vqK
+[bxc6 Qd4 cxb5] fullFalseMatch
+1: {}
+2: {Nxd5}
+4867 https://lichess.org/training/038pe
+[Bxh3 Qe2 Qxe2+] fullFalseMatch
+1: {}
+2: {Nxh5+}
+4935 https://lichess.org/training/03BAr
+[Rxc8# Qd8 Rxd8#] fullFalseMatch
+1: {}
+2: {Nxg5}
+5259 https://lichess.org/training/03N4m
+[Bxe8 Nxd4 Qxd4 Qb3+ Qc4] fullFalseMatch
+1: {}
+2: {Nxc2+}
+6205 https://lichess.org/training/03xyI
+[Ne6+ Ke8 Rg8# Qf8 Rxf8#] fullFalseMatch
+1: {}
+2: {Nxf3}

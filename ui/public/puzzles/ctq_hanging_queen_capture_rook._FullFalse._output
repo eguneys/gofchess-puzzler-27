@@ -1,0 +1,45 @@
+0.01 ms per puzzle, took 35111ms
+FirstM:0 N:5979315 F:0 T:0
+FFM:8586  FF:21792  FullT: 4688
+Coverage:0.58% Accuracy:0.00%
+Total:6014381                                             
+104 https://lichess.org/training/004BW
+[Ke7 Qxg8 Nxg8] fullFalseMatch
+1: {}
+2: {Rxg7+}
+135 https://lichess.org/training/005YX
+[fxe6 Qb7+ Kh8] fullFalseMatch
+1: {}
+2: {Rxc6+}
+396 https://lichess.org/training/00GY4
+[Rb8#] fullFalseMatch
+1: {}
+2: {Rxh4}
+410 https://lichess.org/training/00H1C
+[Qxc7#] fullFalseMatch
+1: {}
+2: {Rxf7}
+905 https://lichess.org/training/00ZEc
+[Rg7+ Kxh6 Qh7#] fullFalseMatch
+1: {}
+2: {Rxf6+}
+977 https://lichess.org/training/00bnu
+[Qxf4+ Kb1 Rxc8] fullFalseMatch
+1: {}
+2: {Rxc8}
+1104 https://lichess.org/training/00gsT
+[Qxa1 Rxa1 Rxb5] fullFalseMatch
+1: {}
+2: {Rxb5}
+1193 https://lichess.org/training/00ko8
+[Qxe2 Rxe2 Rxd5] fullFalseMatch
+1: {}
+2: {Rxd5}
+1338 https://lichess.org/training/00rB5
+[Qxc8+ Rxc8 Rxe3] fullFalseMatch
+1: {}
+2: {Rxe3+}
+1559 https://lichess.org/training/010Ev
+[Qc1+ Qxc1 Rxc1+ Kh2 fxg6] fullFalseMatch
+1: {}
+2: {Rxe3}
