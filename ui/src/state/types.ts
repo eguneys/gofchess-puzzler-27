@@ -203,3 +203,11 @@ addStyle(captureTheQueen, {
 
 
 
+
+addStyle(captureTheQueen, {
+    label: "Sacrifice The Queen (Exception)",
+    description: 'Not capture but sacrifice the queen instead',
+    goal: captureTheQueen,
+    slice: 'qs_one_full_first_move.csv'
+})
+

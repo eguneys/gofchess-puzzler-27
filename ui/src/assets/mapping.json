@@ -25,8 +25,7 @@
     "capture_the_queen_adv_knight_capture_continue_full_true.csv": "ctq_adv_knight_fork_continue.FullTrue.dbsrc.csv",
 
     "capture_the_queen_advanced_knight_cant_capture_full_first_move.csv": "ctq_advanced_knight_cant_capture_after_fork.FullFirstMove.dbsrc.csv",
-    "capture_the_queen_advanced_knight_cant_capture_full_true.csv": "ctq_advanced_knight_cant_capture_after_fork.FullTrue.dbsrc.csv"
+    "capture_the_queen_advanced_knight_cant_capture_full_true.csv": "ctq_advanced_knight_cant_capture_after_fork.FullTrue.dbsrc.csv",
 
-
-
+    "qs_one_full_first_move.csv": "qs_one.FullFirstMove.dbsrc.csv"
 }
